@@ -1,0 +1,12 @@
+pandas>=2.0
+matplotlib>=3.7
+transformers>=4.44
+sentencepiece
+protobuf
+tiktoken
+# v0.5+
+# sentence-transformers
+# sacrebleu
+# scikit-learn
+# v1.0
+# rdflib

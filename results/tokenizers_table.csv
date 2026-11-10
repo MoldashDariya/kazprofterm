@@ -1,0 +1,5 @@
+model,tokens_mean_en,tokens_mean_ru,tokens_mean_kk,fertility_mean_en,fertility_mean_ru,fertility_mean_kk,kk_en,ru_en
+NLLB-200,2.56,4.46,4.28,1.73,2.66,2.34,1.84,1.9
+Qwen2.5,2.28,5.68,9.56,1.56,3.37,4.89,4.43,2.72
+XLM-R,2.46,3.58,4.31,1.66,2.13,2.33,1.86,1.54
+mBERT,2.5,4.85,6.38,1.68,2.89,3.42,2.79,2.15

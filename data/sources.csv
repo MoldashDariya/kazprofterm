@@ -1,0 +1,16 @@
+id,type,title,author_or_org,year,language,url,access_date,notes
+S01,terminology_database,Termincom: terminology database of the State Terminology Commission,State Terminology Commission of RK,,ru;kk,https://termincom.kz/,2026-11-12,Per-term search URLs and approval years are in evidence.csv.
+S02,encyclopedia,Kazakh Wikipedia,Wikimedia,,kk,https://kk.wikipedia.org/,2026-11-12,Hint only; never sufficient for status=verified.
+S03,legal_act,Unified requirements in the field of ICT and information security (Government Decree No. 832),Government of RK,2016,ru;kk,https://adilet.zan.kz/,2026-11-12,Parallel RU/KK text; clause numbers in evidence.csv.
+S04,legal_act,Safety rules for the operation of consumer electrical installations (Order of the Minister of Energy No. 222),Ministry of Energy of RK,2015,ru;kk,https://adilet.zan.kz/kaz/docs/V1500010889,2026-11-12,Parallel RU/KK text; clause numbers in evidence.csv.
+S05,legal_act,Rules for the technical operation of consumer electrical installations (Order of the Minister of Energy No. 246),Ministry of Energy of RK,2015,ru;kk,https://adilet.zan.kz/kaz/docs/V1500010949,2026-11-12,Parallel RU/KK text; clause numbers in evidence.csv.
+S06,legal_act,Sanitary rules: sanitary-epidemiological requirements for public catering facilities (Order No. ҚР ДСМ-16),Ministry of Healthcare of RK,2022,ru;kk,https://adilet.zan.kz/kaz/docs/V2200026866,2026-11-12,Parallel RU/KK text; clause numbers in evidence.csv.
+S07,textbook,Қоғамдық тамақтандыру (textbook),"Күзембаев К., Күзембаева Г.К., Смағұлова А.Қ.",,kk,,2026-11-12,Kazakh-language textbook; page numbers to be added.
+S08,dictionary,Multitran,multitran.com,,en;ru;kk,https://www.multitran.com/,2026-11-12,Used for EN–RU equivalence; not a Kazakh authority.
+S09,encyclopedia,Russian Wikipedia,Wikimedia,,ru,https://ru.wikipedia.org/,2026-11-12,RU hint only.
+S10,web,culinaryschool.ru,,,ru,https://culinaryschool.ru/,2026-11-12,RU culinary usage.
+S11,web,dpoprof.ru (cook training courses),,,ru,https://dpoprof.ru/,2026-11-12,RU culinary usage.
+S12,web,getpelican.app,,,ru,https://getpelican.app/,2026-11-12,RU culinary usage.
+S13,expert_record,"Electrical teacher E02, handwritten translations (2026-11-12)",E02 (anonymised),2026,kk,,2026-11-12,Handwritten translations, transcribed in data/expert_review_E02_electrical.csv. Photo kept privately.
+S14,expert_record,"IT teacher E01, expert review of IT terms (2026-11-12)",E01 (anonymised),2026,kk,,2026-11-12,Ratings and comments in data/expert_review_E01_it.csv. Attests usage and acceptance.
+S15,expert_record,"Cook teacher E03, oral review of culinary terms (2026-11-13)",E03 (anonymised),2026,kk,,2026-11-13,Answers recorded in data/expert_review_E03_cook.csv.

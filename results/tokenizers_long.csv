@@ -1,0 +1,1201 @@
+model,id,specialty,term_type,lang,text,tokens,words,fertility
+mBERT,T0001,it_technician,calque,en,operating system,2,2,1.0
+mBERT,T0001,it_technician,calque,ru,операционная система,3,2,1.5
+mBERT,T0001,it_technician,calque,kk,операциялық жүйе,3,2,1.5
+mBERT,T0002,it_technician,calque,en,database,1,1,1.0
+mBERT,T0002,it_technician,calque,ru,база данных,2,2,1.0
+mBERT,T0002,it_technician,calque,kk,дерекқор,4,1,4.0
+mBERT,T0003,it_technician,borrowing,en,algorithm,1,1,1.0
+mBERT,T0003,it_technician,borrowing,ru,алгоритм,2,1,2.0
+mBERT,T0003,it_technician,borrowing,kk,алгоритм,2,1,2.0
+mBERT,T0004,it_technician,calque,en,programming language,2,2,1.0
+mBERT,T0004,it_technician,calque,ru,язык программирования,3,2,1.5
+mBERT,T0004,it_technician,calque,kk,бағдарламалау тілі,6,2,3.0
+mBERT,T0005,it_technician,calque,en,source code,2,2,1.0
+mBERT,T0005,it_technician,calque,ru,исходный код,4,2,2.0
+mBERT,T0005,it_technician,calque,kk,бастапқы код,3,2,1.5
+mBERT,T0006,it_technician,native,en,variable,1,1,1.0
+mBERT,T0006,it_technician,native,ru,переменная,3,1,3.0
+mBERT,T0006,it_technician,native,kk,айнымалы,3,1,3.0
+mBERT,T0007,it_technician,borrowing,en,function,1,1,1.0
+mBERT,T0007,it_technician,borrowing,ru,функция,1,1,1.0
+mBERT,T0007,it_technician,borrowing,kk,функция,1,1,1.0
+mBERT,T0008,it_technician,calque,en,data structure,2,2,1.0
+mBERT,T0008,it_technician,calque,ru,структура данных,2,2,1.0
+mBERT,T0008,it_technician,calque,kk,деректер құрылымы,8,2,4.0
+mBERT,T0009,it_technician,hybrid,en,application programming interface,3,3,1.0
+mBERT,T0009,it_technician,hybrid,ru,интерфейс программирования приложений,9,3,3.0
+mBERT,T0009,it_technician,hybrid,kk,қолданбалы бағдарламалау интерфейсі,13,3,4.333333333333333
+mBERT,T0010,it_technician,calque,en,version control,2,2,1.0
+mBERT,T0010,it_technician,calque,ru,управление версиями,3,2,1.5
+mBERT,T0010,it_technician,calque,kk,нұсқаларды басқару,7,2,3.5
+mBERT,T0011,it_technician,calque,en,debugging,3,1,3.0
+mBERT,T0011,it_technician,calque,ru,отладка,3,1,3.0
+mBERT,T0011,it_technician,calque,kk,қателерді түзету,8,2,4.0
+mBERT,T0012,it_technician,hybrid,en,testing,1,1,1.0
+mBERT,T0012,it_technician,hybrid,ru,тестирование,3,1,3.0
+mBERT,T0012,it_technician,hybrid,kk,тестілеу,4,1,4.0
+mBERT,T0013,it_technician,calque,en,deployment,1,1,1.0
+mBERT,T0013,it_technician,calque,ru,развёртывание,5,1,5.0
+mBERT,T0013,it_technician,calque,kk,қолданысқа енгізу,8,2,4.0
+mBERT,T0014,it_technician,hybrid,en,backup,1,1,1.0
+mBERT,T0014,it_technician,hybrid,ru,резервное копирование,7,2,3.5
+mBERT,T0014,it_technician,hybrid,kk,резервтік көшіру,7,2,3.5
+mBERT,T0015,it_technician,hybrid,en,data encryption,5,2,2.5
+mBERT,T0015,it_technician,hybrid,ru,шифрование данных,4,2,2.0
+mBERT,T0015,it_technician,hybrid,kk,деректерді шифрлау,8,2,4.0
+mBERT,T0016,it_technician,calque,en,access control,2,2,1.0
+mBERT,T0016,it_technician,calque,ru,контроль доступа,3,2,1.5
+mBERT,T0016,it_technician,calque,kk,қолжеткізуді бақылау,9,2,4.5
+mBERT,T0017,it_technician,calque,en,authentication,4,1,4.0
+mBERT,T0017,it_technician,calque,ru,аутентификация,5,1,5.0
+mBERT,T0017,it_technician,calque,kk,түпнұсқалықты растау,6,2,3.0
+mBERT,T0018,it_technician,calque,en,malware,2,1,2.0
+mBERT,T0018,it_technician,calque,ru,вредоносное ПО,7,2,3.5
+mBERT,T0018,it_technician,calque,kk,зиянды бағдарламалық жасақтама,12,3,4.0
+mBERT,T0019,it_technician,borrowing,en,server,1,1,1.0
+mBERT,T0019,it_technician,borrowing,ru,сервер,3,1,3.0
+mBERT,T0019,it_technician,borrowing,kk,сервер,3,1,3.0
+mBERT,T0020,it_technician,borrowing,en,router,2,1,2.0
+mBERT,T0020,it_technician,borrowing,ru,маршрутизатор,3,1,3.0
+mBERT,T0020,it_technician,borrowing,kk,маршрутизатор,3,1,3.0
+mBERT,T0021,it_technician,hybrid,en,network switch,2,2,1.0
+mBERT,T0021,it_technician,hybrid,ru,сетевой коммутатор,8,2,4.0
+mBERT,T0021,it_technician,hybrid,kk,желілік коммутатор,8,2,4.0
+mBERT,T0022,it_technician,calque,en,motherboard,2,1,2.0
+mBERT,T0022,it_technician,calque,ru,материнская плата,4,2,2.0
+mBERT,T0022,it_technician,calque,kk,жүйелік тақша,5,2,2.5
+mBERT,T0023,it_technician,borrowing,en,processor,1,1,1.0
+mBERT,T0023,it_technician,borrowing,ru,процессор,2,1,2.0
+mBERT,T0023,it_technician,borrowing,kk,процессор,2,1,2.0
+mBERT,T0024,it_technician,calque,en,random access memory,3,3,1.0
+mBERT,T0024,it_technician,calque,ru,оперативная память,4,2,2.0
+mBERT,T0024,it_technician,calque,kk,жедел жад,4,2,2.0
+mBERT,T0025,it_technician,calque,en,solid-state drive,4,2,2.0
+mBERT,T0025,it_technician,calque,ru,твердотельный накопитель,8,2,4.0
+mBERT,T0025,it_technician,calque,kk,қатты денелі жинақтағыш,9,3,3.0
+mBERT,T0026,it_technician,calque,en,power supply unit,3,3,1.0
+mBERT,T0026,it_technician,calque,ru,блок питания,3,2,1.5
+mBERT,T0026,it_technician,calque,kk,қуат блогы,6,2,3.0
+mBERT,T0027,it_technician,hybrid,en,IP address,2,2,1.0
+mBERT,T0027,it_technician,hybrid,ru,IP-адрес,4,1,4.0
+mBERT,T0027,it_technician,hybrid,kk,IP мекенжайы,5,2,2.5
+mBERT,T0028,it_technician,calque,en,local area network,3,3,1.0
+mBERT,T0028,it_technician,calque,ru,локальная сеть,4,2,2.0
+mBERT,T0028,it_technician,calque,kk,жергілікті желі,4,2,2.0
+mBERT,T0029,it_technician,calque,en,bandwidth,3,1,3.0
+mBERT,T0029,it_technician,calque,ru,пропускная способность,5,2,2.5
+mBERT,T0029,it_technician,calque,kk,өткізу қабілеті,8,2,4.0
+mBERT,T0030,it_technician,native,en,latency,2,1,2.0
+mBERT,T0030,it_technician,native,ru,задержка,3,1,3.0
+mBERT,T0030,it_technician,native,kk,кідіріс,3,1,3.0
+mBERT,T0031,it_technician,calque,en,software update,2,2,1.0
+mBERT,T0031,it_technician,calque,ru,обновление ПО,5,2,2.5
+mBERT,T0031,it_technician,calque,kk,бағдарламалық жасақтаманы жаңарту,11,3,3.6666666666666665
+mBERT,T0032,it_technician,calque,en,troubleshooting,4,1,4.0
+mBERT,T0032,it_technician,calque,ru,поиск и устранение неисправностей,11,4,2.75
+mBERT,T0032,it_technician,calque,kk,ақауларды анықтау және жою,8,4,2.0
+mBERT,T0033,it_technician,calque,en,user permissions,3,2,1.5
+mBERT,T0033,it_technician,calque,ru,права пользователя,5,2,2.5
+mBERT,T0033,it_technician,calque,kk,пайдаланушы құқықтары,7,2,3.5
+mBERT,T0034,it_technician,calque,en,cloud storage,2,2,1.0
+mBERT,T0034,it_technician,calque,ru,облачное хранилище,6,2,3.0
+mBERT,T0034,it_technician,calque,kk,бұлттық қойма,6,2,3.0
+mBERT,T0035,electrician,hybrid,en,electrical safety,2,2,1.0
+mBERT,T0035,electrician,hybrid,ru,электробезопасность,6,1,6.0
+mBERT,T0035,electrician,hybrid,kk,электр қауіпсіздігі,7,2,3.5
+mBERT,T0036,electrician,calque,en,personal protective equipment,4,3,1.3333333333333333
+mBERT,T0036,electrician,calque,ru,средства индивидуальной защиты,7,3,2.3333333333333335
+mBERT,T0036,electrician,calque,kk,жеке қорғаныс құралдары,9,3,3.0
+mBERT,T0037,electrician,calque,en,protective grounding,4,2,2.0
+mBERT,T0037,electrician,calque,ru,защитное заземление,8,2,4.0
+mBERT,T0037,electrician,calque,kk,қорғаныс жерлендіру,7,2,3.5
+mBERT,T0038,electrician,hybrid,en,electric shock,2,2,1.0
+mBERT,T0038,electrician,hybrid,ru,поражение электрическим током,4,3,1.3333333333333333
+mBERT,T0038,electrician,hybrid,kk,электр тоғымен зақымдану,9,3,3.0
+mBERT,T0039,electrician,calque,en,lockout and tagout,5,3,1.6666666666666667
+mBERT,T0039,electrician,calque,ru,блокировка и маркировка,6,3,2.0
+mBERT,T0039,electrician,calque,kk,бұғаттау және таңбалау,9,3,3.0
+mBERT,T0040,electrician,calque,en,de-energization,4,1,4.0
+mBERT,T0040,electrician,calque,ru,снятие напряжения,6,2,3.0
+mBERT,T0040,electrician,calque,kk,кернеуді ажырату,7,2,3.5
+mBERT,T0041,electrician,calque,en,insulation resistance,3,2,1.5
+mBERT,T0041,electrician,calque,ru,сопротивление изоляции,5,2,2.5
+mBERT,T0041,electrician,calque,kk,оқшаулау кедергісі,9,2,4.5
+mBERT,T0042,electrician,calque,en,short circuit,2,2,1.0
+mBERT,T0042,electrician,calque,ru,короткое замыкание,7,2,3.5
+mBERT,T0042,electrician,calque,kk,қысқа тұйықталу,9,2,4.5
+mBERT,T0043,electrician,calque,en,overload,2,1,2.0
+mBERT,T0043,electrician,calque,ru,перегрузка,5,1,5.0
+mBERT,T0043,electrician,calque,kk,артық жүктемесі,7,2,3.5
+mBERT,T0044,electrician,hybrid,en,electric current,2,2,1.0
+mBERT,T0044,electrician,hybrid,ru,электрический ток,3,2,1.5
+mBERT,T0044,electrician,hybrid,kk,электр тоқ,3,2,1.5
+mBERT,T0045,electrician,native,en,voltage,1,1,1.0
+mBERT,T0045,electrician,native,ru,напряжение,3,1,3.0
+mBERT,T0045,electrician,native,kk,кернеу,3,1,3.0
+mBERT,T0046,electrician,native,en,resistance,1,1,1.0
+mBERT,T0046,electrician,native,ru,сопротивление,2,1,2.0
+mBERT,T0046,electrician,native,kk,кедергі,4,1,4.0
+mBERT,T0047,electrician,native,en,power,1,1,1.0
+mBERT,T0047,electrician,native,ru,мощность,2,1,2.0
+mBERT,T0047,electrician,native,kk,қуат,3,1,3.0
+mBERT,T0048,electrician,hybrid,en,alternating current,3,2,1.5
+mBERT,T0048,electrician,hybrid,ru,переменный ток,4,2,2.0
+mBERT,T0048,electrician,hybrid,kk,айнымалы ток,4,2,2.0
+mBERT,T0049,electrician,hybrid,en,direct current,2,2,1.0
+mBERT,T0049,electrician,hybrid,ru,постоянный ток,4,2,2.0
+mBERT,T0049,electrician,hybrid,kk,тұрақты ток,2,2,1.0
+mBERT,T0050,electrician,hybrid,en,three-phase system,4,2,2.0
+mBERT,T0050,electrician,hybrid,ru,трёхфазная система,4,2,2.0
+mBERT,T0050,electrician,hybrid,kk,үш фазалы жүйе,4,3,1.3333333333333333
+mBERT,T0051,electrician,hybrid,en,circuit breaker,3,2,1.5
+mBERT,T0051,electrician,hybrid,ru,автоматический выключатель,9,2,4.5
+mBERT,T0051,electrician,hybrid,kk,автоматтық ажыратқыш,10,2,5.0
+mBERT,T0052,electrician,calque,en,residual current device,5,3,1.6666666666666667
+mBERT,T0052,electrician,calque,ru,устройство защитного отключения,6,3,2.0
+mBERT,T0052,electrician,calque,kk,қорғаныстық ажырату құрылғысы,13,3,4.333333333333333
+mBERT,T0053,electrician,native,en,fuse,2,1,2.0
+mBERT,T0053,electrician,native,ru,предохранитель,4,1,4.0
+mBERT,T0053,electrician,native,kk,сақтандырғыш,6,1,6.0
+mBERT,T0054,electrician,borrowing,en,transformer,2,1,2.0
+mBERT,T0054,electrician,borrowing,ru,трансформатор,6,1,6.0
+mBERT,T0054,electrician,borrowing,kk,трансформатор,6,1,6.0
+mBERT,T0055,electrician,hybrid,en,electric motor,2,2,1.0
+mBERT,T0055,electrician,hybrid,ru,электродвигатель,3,1,3.0
+mBERT,T0055,electrician,hybrid,kk,электр қозғалтқышы,7,2,3.5
+mBERT,T0056,electrician,borrowing,en,generator,1,1,1.0
+mBERT,T0056,electrician,borrowing,ru,генератор,3,1,3.0
+mBERT,T0056,electrician,borrowing,kk,генератор,3,1,3.0
+mBERT,T0057,electrician,borrowing,en,contactor,2,1,2.0
+mBERT,T0057,electrician,borrowing,ru,контактор,2,1,2.0
+mBERT,T0057,electrician,borrowing,kk,контактор,2,1,2.0
+mBERT,T0058,electrician,borrowing,en,relay,1,1,1.0
+mBERT,T0058,electrician,borrowing,ru,реле,2,1,2.0
+mBERT,T0058,electrician,borrowing,kk,реле,2,1,2.0
+mBERT,T0059,electrician,hybrid,en,terminal block,2,2,1.0
+mBERT,T0059,electrician,hybrid,ru,клеммная колодка,6,2,3.0
+mBERT,T0059,electrician,hybrid,kk,клеммалық жалғау қысқыштарының блогі,16,4,4.0
+mBERT,T0060,electrician,borrowing,en,multimeter,2,1,2.0
+mBERT,T0060,electrician,borrowing,ru,мультиметр,5,1,5.0
+mBERT,T0060,electrician,borrowing,kk,мультиметр,5,1,5.0
+mBERT,T0061,electrician,calque,en,voltage tester,3,2,1.5
+mBERT,T0061,electrician,calque,ru,указатель напряжения,7,2,3.5
+mBERT,T0061,electrician,calque,kk,кернеу көрсеткіші,8,2,4.0
+mBERT,T0062,electrician,native,en,conductor,1,1,1.0
+mBERT,T0062,electrician,native,ru,проводник,3,1,3.0
+mBERT,T0062,electrician,native,kk,өткізгіш,6,1,6.0
+mBERT,T0063,electrician,native,en,insulator,2,1,2.0
+mBERT,T0063,electrician,native,ru,изолятор,3,1,3.0
+mBERT,T0063,electrician,native,kk,оқшаулағыш,5,1,5.0
+mBERT,T0064,electrician,borrowing,en,cable,1,1,1.0
+mBERT,T0064,electrician,borrowing,ru,кабель,2,1,2.0
+mBERT,T0064,electrician,borrowing,kk,кабель,2,1,2.0
+mBERT,T0065,electrician,hybrid,en,wiring installation,3,2,1.5
+mBERT,T0065,electrician,hybrid,ru,монтаж электропроводки,7,2,3.5
+mBERT,T0065,electrician,hybrid,kk,электр сымдарын монтаждау,8,3,2.6666666666666665
+mBERT,T0066,electrician,calque,en,continuity test,3,2,1.5
+mBERT,T0066,electrician,calque,ru,проверка целостности цепи,8,3,2.6666666666666665
+mBERT,T0066,electrician,calque,kk,тізбектің бүтіндігін тексеру,12,3,4.0
+mBERT,T0067,electrician,hybrid,en,preventive maintenance,3,2,1.5
+mBERT,T0067,electrician,hybrid,ru,профилактическое обслуживание,8,2,4.0
+mBERT,T0067,electrician,hybrid,kk,профилактикалық қызмет көрсету,9,3,3.0
+mBERT,T0068,cook,calque,en,food safety,2,2,1.0
+mBERT,T0068,cook,calque,ru,безопасность пищевых продуктов,9,3,3.0
+mBERT,T0068,cook,calque,kk,азық-түлік қауіпсіздігі,12,2,6.0
+mBERT,T0069,cook,hybrid,en,personal hygiene,3,2,1.5
+mBERT,T0069,cook,hybrid,ru,личная гигиена,5,2,2.5
+mBERT,T0069,cook,hybrid,kk,жеке гигиена,4,2,2.0
+mBERT,T0070,cook,calque,en,cross-contamination,4,1,4.0
+mBERT,T0070,cook,calque,ru,перекрёстное загрязнение,10,2,5.0
+mBERT,T0070,cook,calque,kk,тоғыспалы ластану,7,2,3.5
+mBERT,T0071,cook,calque,en,food poisoning,3,2,1.5
+mBERT,T0071,cook,calque,ru,пищевое отравление,6,2,3.0
+mBERT,T0071,cook,calque,kk,тағамнан улану,6,2,3.0
+mBERT,T0072,cook,hybrid,en,temperature control,2,2,1.0
+mBERT,T0072,cook,hybrid,ru,контроль температуры,3,2,1.5
+mBERT,T0072,cook,hybrid,kk,температураны бақылау,5,2,2.5
+mBERT,T0073,cook,calque,en,expiration date,4,2,2.0
+mBERT,T0073,cook,calque,ru,срок годности,3,2,1.5
+mBERT,T0073,cook,calque,kk,жарамдылық мерзімі,8,2,4.0
+mBERT,T0074,cook,borrowing,en,allergen,2,1,2.0
+mBERT,T0074,cook,borrowing,ru,аллерген,3,1,3.0
+mBERT,T0074,cook,borrowing,kk,аллерген,3,1,3.0
+mBERT,T0075,cook,hybrid,en,sanitization,3,1,3.0
+mBERT,T0075,cook,hybrid,ru,санитарная обработка,5,2,2.5
+mBERT,T0075,cook,hybrid,kk,санитариялық өңдеу,7,2,3.5
+mBERT,T0076,cook,calque,en,disinfection,4,1,4.0
+mBERT,T0076,cook,calque,ru,дезинфекция,4,1,4.0
+mBERT,T0076,cook,calque,kk,залалсыздандыру,6,1,6.0
+mBERT,T0077,cook,calque,en,hazard analysis and critical control points,7,6,1.1666666666666667
+mBERT,T0077,cook,calque,ru,анализ опасных факторов и критические точки контроля,12,7,1.7142857142857142
+mBERT,T0077,cook,calque,kk,қауіпті факторларды және бақылаудың сындарлы нүктелерін талдау,22,7,3.142857142857143
+mBERT,T0078,cook,hybrid,en,mise en place,3,3,1.0
+mBERT,T0078,cook,hybrid,ru,подготовка рабочего места и ингредиентов,12,5,2.4
+mBERT,T0078,cook,hybrid,kk,жұмыс орнын және ингредиенттерді алдын ала дайындау,16,7,2.2857142857142856
+mBERT,T0079,cook,native,en,blanching,2,1,2.0
+mBERT,T0079,cook,native,ru,бланширование,4,1,4.0
+mBERT,T0079,cook,native,kk,шарпылау,3,1,3.0
+mBERT,T0080,cook,native,en,boiling,2,1,2.0
+mBERT,T0080,cook,native,ru,варка,2,1,2.0
+mBERT,T0080,cook,native,kk,қайнату,3,1,3.0
+mBERT,T0081,cook,calque,en,steaming,2,1,2.0
+mBERT,T0081,cook,calque,ru,приготовление на пару,7,3,2.3333333333333335
+mBERT,T0081,cook,calque,kk,буға пісіру,5,2,2.5
+mBERT,T0082,cook,native,en,frying,2,1,2.0
+mBERT,T0082,cook,native,ru,жарка,2,1,2.0
+mBERT,T0082,cook,native,kk,қуыру,3,1,3.0
+mBERT,T0083,cook,native,en,baking,2,1,2.0
+mBERT,T0083,cook,native,ru,выпекание,4,1,4.0
+mBERT,T0083,cook,native,kk,пісірме,4,1,4.0
+mBERT,T0084,cook,native,en,stewing,2,1,2.0
+mBERT,T0084,cook,native,ru,тушение,2,1,2.0
+mBERT,T0084,cook,native,kk,бұқтыру,4,1,4.0
+mBERT,T0085,cook,hybrid,en,marinating,2,1,2.0
+mBERT,T0085,cook,hybrid,ru,маринование,3,1,3.0
+mBERT,T0085,cook,hybrid,kk,маринадтау,4,1,4.0
+mBERT,T0086,cook,hybrid,en,fermentation,2,1,2.0
+mBERT,T0086,cook,hybrid,ru,ферментация,4,1,4.0
+mBERT,T0086,cook,hybrid,kk,ферменттеу,5,1,5.0
+mBERT,T0087,cook,hybrid,en,pasteurization,3,1,3.0
+mBERT,T0087,cook,hybrid,ru,пастеризация,3,1,3.0
+mBERT,T0087,cook,hybrid,kk,пастерлеу,4,1,4.0
+mBERT,T0088,cook,native,en,cooling,2,1,2.0
+mBERT,T0088,cook,native,ru,охлаждение,4,1,4.0
+mBERT,T0088,cook,native,kk,салқындату,5,1,5.0
+mBERT,T0089,cook,native,en,thawing,2,1,2.0
+mBERT,T0089,cook,native,ru,размораживание,5,1,5.0
+mBERT,T0089,cook,native,kk,жібіту,4,1,4.0
+mBERT,T0090,cook,hybrid,en,portioning,2,1,2.0
+mBERT,T0090,cook,hybrid,ru,порционирование,4,1,4.0
+mBERT,T0090,cook,hybrid,kk,порциялау,3,1,3.0
+mBERT,T0091,cook,calque,en,plating,2,1,2.0
+mBERT,T0091,cook,calque,ru,оформление и подача блюда,10,4,2.5
+mBERT,T0091,cook,calque,kk,тағамды безендіру және ұсыну,11,4,2.75
+mBERT,T0092,cook,calque,en,cutting board,2,2,1.0
+mBERT,T0092,cook,calque,ru,разделочная доска,6,2,3.0
+mBERT,T0092,cook,calque,kk,бөлшектеу тақтайы,9,2,4.5
+mBERT,T0093,cook,calque,en,chef's knife,5,2,2.5
+mBERT,T0093,cook,calque,ru,поварской нож,5,2,2.5
+mBERT,T0093,cook,calque,kk,аспаз пышағы,7,2,3.5
+mBERT,T0094,cook,hybrid,en,food thermometer,4,2,2.0
+mBERT,T0094,cook,hybrid,ru,пищевой термометр,7,2,3.5
+mBERT,T0094,cook,hybrid,kk,тағам термометрі,8,2,4.0
+mBERT,T0095,cook,native,en,refrigerator,3,1,3.0
+mBERT,T0095,cook,native,ru,холодильник,5,1,5.0
+mBERT,T0095,cook,native,kk,тоңазытқыш,6,1,6.0
+mBERT,T0096,cook,hybrid,en,convection oven,5,2,2.5
+mBERT,T0096,cook,hybrid,ru,конвекционная печь,6,2,3.0
+mBERT,T0096,cook,hybrid,kk,конвекциялық пеш,6,2,3.0
+mBERT,T0097,cook,hybrid,en,raw ingredient,4,2,2.0
+mBERT,T0097,cook,hybrid,ru,сырой ингредиент,7,2,3.5
+mBERT,T0097,cook,hybrid,kk,шикі ингредиент,6,2,3.0
+mBERT,T0098,cook,calque,en,perishable food,4,2,2.0
+mBERT,T0098,cook,calque,ru,скоропортящийся продукт,5,2,2.5
+mBERT,T0098,cook,calque,kk,тез бұзылғыш азық-түлік,12,3,4.0
+mBERT,T0099,cook,borrowing,en,recipe,3,1,3.0
+mBERT,T0099,cook,borrowing,ru,рецепт,4,1,4.0
+mBERT,T0099,cook,borrowing,kk,рецепт,4,1,4.0
+mBERT,T0100,cook,calque,en,yield,1,1,1.0
+mBERT,T0100,cook,calque,ru,выход готового блюда,7,3,2.3333333333333335
+mBERT,T0100,cook,calque,kk,тағам шығымы,6,2,3.0
+XLM-R,T0001,it_technician,calque,en,operating system,2,2,1.0
+XLM-R,T0001,it_technician,calque,ru,операционная система,3,2,1.5
+XLM-R,T0001,it_technician,calque,kk,операциялық жүйе,3,2,1.5
+XLM-R,T0002,it_technician,calque,en,database,1,1,1.0
+XLM-R,T0002,it_technician,calque,ru,база данных,2,2,1.0
+XLM-R,T0002,it_technician,calque,kk,дерекқор,2,1,2.0
+XLM-R,T0003,it_technician,borrowing,en,algorithm,1,1,1.0
+XLM-R,T0003,it_technician,borrowing,ru,алгоритм,1,1,1.0
+XLM-R,T0003,it_technician,borrowing,kk,алгоритм,1,1,1.0
+XLM-R,T0004,it_technician,calque,en,programming language,3,2,1.5
+XLM-R,T0004,it_technician,calque,ru,язык программирования,3,2,1.5
+XLM-R,T0004,it_technician,calque,kk,бағдарламалау тілі,3,2,1.5
+XLM-R,T0005,it_technician,calque,en,source code,2,2,1.0
+XLM-R,T0005,it_technician,calque,ru,исходный код,3,2,1.5
+XLM-R,T0005,it_technician,calque,kk,бастапқы код,3,2,1.5
+XLM-R,T0006,it_technician,native,en,variable,1,1,1.0
+XLM-R,T0006,it_technician,native,ru,переменная,2,1,2.0
+XLM-R,T0006,it_technician,native,kk,айнымалы,3,1,3.0
+XLM-R,T0007,it_technician,borrowing,en,function,1,1,1.0
+XLM-R,T0007,it_technician,borrowing,ru,функция,1,1,1.0
+XLM-R,T0007,it_technician,borrowing,kk,функция,1,1,1.0
+XLM-R,T0008,it_technician,calque,en,data structure,2,2,1.0
+XLM-R,T0008,it_technician,calque,ru,структура данных,2,2,1.0
+XLM-R,T0008,it_technician,calque,kk,деректер құрылымы,2,2,1.0
+XLM-R,T0009,it_technician,hybrid,en,application programming interface,4,3,1.3333333333333333
+XLM-R,T0009,it_technician,hybrid,ru,интерфейс программирования приложений,5,3,1.6666666666666667
+XLM-R,T0009,it_technician,hybrid,kk,қолданбалы бағдарламалау интерфейсі,7,3,2.3333333333333335
+XLM-R,T0010,it_technician,calque,en,version control,2,2,1.0
+XLM-R,T0010,it_technician,calque,ru,управление версиями,3,2,1.5
+XLM-R,T0010,it_technician,calque,kk,нұсқаларды басқару,3,2,1.5
+XLM-R,T0011,it_technician,calque,en,debugging,3,1,3.0
+XLM-R,T0011,it_technician,calque,ru,отладка,3,1,3.0
+XLM-R,T0011,it_technician,calque,kk,қателерді түзету,6,2,3.0
+XLM-R,T0012,it_technician,hybrid,en,testing,1,1,1.0
+XLM-R,T0012,it_technician,hybrid,ru,тестирование,2,1,2.0
+XLM-R,T0012,it_technician,hybrid,kk,тестілеу,3,1,3.0
+XLM-R,T0013,it_technician,calque,en,deployment,4,1,4.0
+XLM-R,T0013,it_technician,calque,ru,развёртывание,5,1,5.0
+XLM-R,T0013,it_technician,calque,kk,қолданысқа енгізу,4,2,2.0
+XLM-R,T0014,it_technician,hybrid,en,backup,1,1,1.0
+XLM-R,T0014,it_technician,hybrid,ru,резервное копирование,4,2,2.0
+XLM-R,T0014,it_technician,hybrid,kk,резервтік көшіру,4,2,2.0
+XLM-R,T0015,it_technician,hybrid,en,data encryption,4,2,2.0
+XLM-R,T0015,it_technician,hybrid,ru,шифрование данных,3,2,1.5
+XLM-R,T0015,it_technician,hybrid,kk,деректерді шифрлау,4,2,2.0
+XLM-R,T0016,it_technician,calque,en,access control,2,2,1.0
+XLM-R,T0016,it_technician,calque,ru,контроль доступа,2,2,1.0
+XLM-R,T0016,it_technician,calque,kk,қолжеткізуді бақылау,6,2,3.0
+XLM-R,T0017,it_technician,calque,en,authentication,2,1,2.0
+XLM-R,T0017,it_technician,calque,ru,аутентификация,3,1,3.0
+XLM-R,T0017,it_technician,calque,kk,түпнұсқалықты растау,8,2,4.0
+XLM-R,T0018,it_technician,calque,en,malware,1,1,1.0
+XLM-R,T0018,it_technician,calque,ru,вредоносное ПО,4,2,2.0
+XLM-R,T0018,it_technician,calque,kk,зиянды бағдарламалық жасақтама,8,3,2.6666666666666665
+XLM-R,T0019,it_technician,borrowing,en,server,1,1,1.0
+XLM-R,T0019,it_technician,borrowing,ru,сервер,1,1,1.0
+XLM-R,T0019,it_technician,borrowing,kk,сервер,1,1,1.0
+XLM-R,T0020,it_technician,borrowing,en,router,1,1,1.0
+XLM-R,T0020,it_technician,borrowing,ru,маршрутизатор,2,1,2.0
+XLM-R,T0020,it_technician,borrowing,kk,маршрутизатор,2,1,2.0
+XLM-R,T0021,it_technician,hybrid,en,network switch,2,2,1.0
+XLM-R,T0021,it_technician,hybrid,ru,сетевой коммутатор,5,2,2.5
+XLM-R,T0021,it_technician,hybrid,kk,желілік коммутатор,6,2,3.0
+XLM-R,T0022,it_technician,calque,en,motherboard,2,1,2.0
+XLM-R,T0022,it_technician,calque,ru,материнская плата,3,2,1.5
+XLM-R,T0022,it_technician,calque,kk,жүйелік тақша,5,2,2.5
+XLM-R,T0023,it_technician,borrowing,en,processor,2,1,2.0
+XLM-R,T0023,it_technician,borrowing,ru,процессор,2,1,2.0
+XLM-R,T0023,it_technician,borrowing,kk,процессор,2,1,2.0
+XLM-R,T0024,it_technician,calque,en,random access memory,3,3,1.0
+XLM-R,T0024,it_technician,calque,ru,оперативная память,3,2,1.5
+XLM-R,T0024,it_technician,calque,kk,жедел жад,3,2,1.5
+XLM-R,T0025,it_technician,calque,en,solid-state drive,4,2,2.0
+XLM-R,T0025,it_technician,calque,ru,твердотельный накопитель,4,2,2.0
+XLM-R,T0025,it_technician,calque,kk,қатты денелі жинақтағыш,6,3,2.0
+XLM-R,T0026,it_technician,calque,en,power supply unit,3,3,1.0
+XLM-R,T0026,it_technician,calque,ru,блок питания,2,2,1.0
+XLM-R,T0026,it_technician,calque,kk,қуат блогы,3,2,1.5
+XLM-R,T0027,it_technician,hybrid,en,IP address,2,2,1.0
+XLM-R,T0027,it_technician,hybrid,ru,IP-адрес,3,1,3.0
+XLM-R,T0027,it_technician,hybrid,kk,IP мекенжайы,3,2,1.5
+XLM-R,T0028,it_technician,calque,en,local area network,3,3,1.0
+XLM-R,T0028,it_technician,calque,ru,локальная сеть,4,2,2.0
+XLM-R,T0028,it_technician,calque,kk,жергілікті желі,3,2,1.5
+XLM-R,T0029,it_technician,calque,en,bandwidth,2,1,2.0
+XLM-R,T0029,it_technician,calque,ru,пропускная способность,3,2,1.5
+XLM-R,T0029,it_technician,calque,kk,өткізу қабілеті,3,2,1.5
+XLM-R,T0030,it_technician,native,en,latency,2,1,2.0
+XLM-R,T0030,it_technician,native,ru,задержка,3,1,3.0
+XLM-R,T0030,it_technician,native,kk,кідіріс,3,1,3.0
+XLM-R,T0031,it_technician,calque,en,software update,2,2,1.0
+XLM-R,T0031,it_technician,calque,ru,обновление ПО,4,2,2.0
+XLM-R,T0031,it_technician,calque,kk,бағдарламалық жасақтаманы жаңарту,8,3,2.6666666666666665
+XLM-R,T0032,it_technician,calque,en,troubleshooting,3,1,3.0
+XLM-R,T0032,it_technician,calque,ru,поиск и устранение неисправностей,9,4,2.25
+XLM-R,T0032,it_technician,calque,kk,ақауларды анықтау және жою,7,4,1.75
+XLM-R,T0033,it_technician,calque,en,user permissions,3,2,1.5
+XLM-R,T0033,it_technician,calque,ru,права пользователя,2,2,1.0
+XLM-R,T0033,it_technician,calque,kk,пайдаланушы құқықтары,3,2,1.5
+XLM-R,T0034,it_technician,calque,en,cloud storage,2,2,1.0
+XLM-R,T0034,it_technician,calque,ru,облачное хранилище,4,2,2.0
+XLM-R,T0034,it_technician,calque,kk,бұлттық қойма,4,2,2.0
+XLM-R,T0035,electrician,hybrid,en,electrical safety,3,2,1.5
+XLM-R,T0035,electrician,hybrid,ru,электробезопасность,3,1,3.0
+XLM-R,T0035,electrician,hybrid,kk,электр қауіпсіздігі,2,2,1.0
+XLM-R,T0036,electrician,calque,en,personal protective equipment,4,3,1.3333333333333333
+XLM-R,T0036,electrician,calque,ru,средства индивидуальной защиты,4,3,1.3333333333333333
+XLM-R,T0036,electrician,calque,kk,жеке қорғаныс құралдары,5,3,1.6666666666666667
+XLM-R,T0037,electrician,calque,en,protective grounding,4,2,2.0
+XLM-R,T0037,electrician,calque,ru,защитное заземление,5,2,2.5
+XLM-R,T0037,electrician,calque,kk,қорғаныс жерлендіру,5,2,2.5
+XLM-R,T0038,electrician,hybrid,en,electric shock,2,2,1.0
+XLM-R,T0038,electrician,hybrid,ru,поражение электрическим током,5,3,1.6666666666666667
+XLM-R,T0038,electrician,hybrid,kk,электр тоғымен зақымдану,8,3,2.6666666666666665
+XLM-R,T0039,electrician,calque,en,lockout and tagout,5,3,1.6666666666666667
+XLM-R,T0039,electrician,calque,ru,блокировка и маркировка,5,3,1.6666666666666667
+XLM-R,T0039,electrician,calque,kk,бұғаттау және таңбалау,8,3,2.6666666666666665
+XLM-R,T0040,electrician,calque,en,de-energization,5,1,5.0
+XLM-R,T0040,electrician,calque,ru,снятие напряжения,6,2,3.0
+XLM-R,T0040,electrician,calque,kk,кернеуді ажырату,7,2,3.5
+XLM-R,T0041,electrician,calque,en,insulation resistance,4,2,2.0
+XLM-R,T0041,electrician,calque,ru,сопротивление изоляции,6,2,3.0
+XLM-R,T0041,electrician,calque,kk,оқшаулау кедергісі,6,2,3.0
+XLM-R,T0042,electrician,calque,en,short circuit,2,2,1.0
+XLM-R,T0042,electrician,calque,ru,короткое замыкание,5,2,2.5
+XLM-R,T0042,electrician,calque,kk,қысқа тұйықталу,5,2,2.5
+XLM-R,T0043,electrician,calque,en,overload,2,1,2.0
+XLM-R,T0043,electrician,calque,ru,перегрузка,3,1,3.0
+XLM-R,T0043,electrician,calque,kk,артық жүктемесі,5,2,2.5
+XLM-R,T0044,electrician,hybrid,en,electric current,2,2,1.0
+XLM-R,T0044,electrician,hybrid,ru,электрический ток,3,2,1.5
+XLM-R,T0044,electrician,hybrid,kk,электр тоқ,3,2,1.5
+XLM-R,T0045,electrician,native,en,voltage,2,1,2.0
+XLM-R,T0045,electrician,native,ru,напряжение,1,1,1.0
+XLM-R,T0045,electrician,native,kk,кернеу,3,1,3.0
+XLM-R,T0046,electrician,native,en,resistance,2,1,2.0
+XLM-R,T0046,electrician,native,ru,сопротивление,3,1,3.0
+XLM-R,T0046,electrician,native,kk,кедергі,1,1,1.0
+XLM-R,T0047,electrician,native,en,power,1,1,1.0
+XLM-R,T0047,electrician,native,ru,мощность,2,1,2.0
+XLM-R,T0047,electrician,native,kk,қуат,1,1,1.0
+XLM-R,T0048,electrician,hybrid,en,alternating current,3,2,1.5
+XLM-R,T0048,electrician,hybrid,ru,переменный ток,3,2,1.5
+XLM-R,T0048,electrician,hybrid,kk,айнымалы ток,4,2,2.0
+XLM-R,T0049,electrician,hybrid,en,direct current,2,2,1.0
+XLM-R,T0049,electrician,hybrid,ru,постоянный ток,4,2,2.0
+XLM-R,T0049,electrician,hybrid,kk,тұрақты ток,2,2,1.0
+XLM-R,T0050,electrician,hybrid,en,three-phase system,4,2,2.0
+XLM-R,T0050,electrician,hybrid,ru,трёхфазная система,5,2,2.5
+XLM-R,T0050,electrician,hybrid,kk,үш фазалы жүйе,4,3,1.3333333333333333
+XLM-R,T0051,electrician,hybrid,en,circuit breaker,3,2,1.5
+XLM-R,T0051,electrician,hybrid,ru,автоматический выключатель,5,2,2.5
+XLM-R,T0051,electrician,hybrid,kk,автоматтық ажыратқыш,5,2,2.5
+XLM-R,T0052,electrician,calque,en,residual current device,4,3,1.3333333333333333
+XLM-R,T0052,electrician,calque,ru,устройство защитного отключения,6,3,2.0
+XLM-R,T0052,electrician,calque,kk,қорғаныстық ажырату құрылғысы,11,3,3.6666666666666665
+XLM-R,T0053,electrician,native,en,fuse,2,1,2.0
+XLM-R,T0053,electrician,native,ru,предохранитель,3,1,3.0
+XLM-R,T0053,electrician,native,kk,сақтандырғыш,4,1,4.0
+XLM-R,T0054,electrician,borrowing,en,transformer,2,1,2.0
+XLM-R,T0054,electrician,borrowing,ru,трансформатор,2,1,2.0
+XLM-R,T0054,electrician,borrowing,kk,трансформатор,2,1,2.0
+XLM-R,T0055,electrician,hybrid,en,electric motor,2,2,1.0
+XLM-R,T0055,electrician,hybrid,ru,электродвигатель,4,1,4.0
+XLM-R,T0055,electrician,hybrid,kk,электр қозғалтқышы,5,2,2.5
+XLM-R,T0056,electrician,borrowing,en,generator,1,1,1.0
+XLM-R,T0056,electrician,borrowing,ru,генератор,1,1,1.0
+XLM-R,T0056,electrician,borrowing,kk,генератор,1,1,1.0
+XLM-R,T0057,electrician,borrowing,en,contactor,2,1,2.0
+XLM-R,T0057,electrician,borrowing,ru,контактор,2,1,2.0
+XLM-R,T0057,electrician,borrowing,kk,контактор,2,1,2.0
+XLM-R,T0058,electrician,borrowing,en,relay,2,1,2.0
+XLM-R,T0058,electrician,borrowing,ru,реле,2,1,2.0
+XLM-R,T0058,electrician,borrowing,kk,реле,2,1,2.0
+XLM-R,T0059,electrician,hybrid,en,terminal block,2,2,1.0
+XLM-R,T0059,electrician,hybrid,ru,клеммная колодка,5,2,2.5
+XLM-R,T0059,electrician,hybrid,kk,клеммалық жалғау қысқыштарының блогі,11,4,2.75
+XLM-R,T0060,electrician,borrowing,en,multimeter,2,1,2.0
+XLM-R,T0060,electrician,borrowing,ru,мультиметр,2,1,2.0
+XLM-R,T0060,electrician,borrowing,kk,мультиметр,2,1,2.0
+XLM-R,T0061,electrician,calque,en,voltage tester,3,2,1.5
+XLM-R,T0061,electrician,calque,ru,указатель напряжения,6,2,3.0
+XLM-R,T0061,electrician,calque,kk,кернеу көрсеткіші,5,2,2.5
+XLM-R,T0062,electrician,native,en,conductor,1,1,1.0
+XLM-R,T0062,electrician,native,ru,проводник,2,1,2.0
+XLM-R,T0062,electrician,native,kk,өткізгіш,2,1,2.0
+XLM-R,T0063,electrician,native,en,insulator,2,1,2.0
+XLM-R,T0063,electrician,native,ru,изолятор,3,1,3.0
+XLM-R,T0063,electrician,native,kk,оқшаулағыш,5,1,5.0
+XLM-R,T0064,electrician,borrowing,en,cable,1,1,1.0
+XLM-R,T0064,electrician,borrowing,ru,кабель,2,1,2.0
+XLM-R,T0064,electrician,borrowing,kk,кабель,2,1,2.0
+XLM-R,T0065,electrician,hybrid,en,wiring installation,3,2,1.5
+XLM-R,T0065,electrician,hybrid,ru,монтаж электропроводки,4,2,2.0
+XLM-R,T0065,electrician,hybrid,kk,электр сымдарын монтаждау,6,3,2.0
+XLM-R,T0066,electrician,calque,en,continuity test,3,2,1.5
+XLM-R,T0066,electrician,calque,ru,проверка целостности цепи,5,3,1.6666666666666667
+XLM-R,T0066,electrician,calque,kk,тізбектің бүтіндігін тексеру,7,3,2.3333333333333335
+XLM-R,T0067,electrician,hybrid,en,preventive maintenance,3,2,1.5
+XLM-R,T0067,electrician,hybrid,ru,профилактическое обслуживание,4,2,2.0
+XLM-R,T0067,electrician,hybrid,kk,профилактикалық қызмет көрсету,4,3,1.3333333333333333
+XLM-R,T0068,cook,calque,en,food safety,2,2,1.0
+XLM-R,T0068,cook,calque,ru,безопасность пищевых продуктов,4,3,1.3333333333333333
+XLM-R,T0068,cook,calque,kk,азық-түлік қауіпсіздігі,4,2,2.0
+XLM-R,T0069,cook,hybrid,en,personal hygiene,3,2,1.5
+XLM-R,T0069,cook,hybrid,ru,личная гигиена,5,2,2.5
+XLM-R,T0069,cook,hybrid,kk,жеке гигиена,4,2,2.0
+XLM-R,T0070,cook,calque,en,cross-contamination,4,1,4.0
+XLM-R,T0070,cook,calque,ru,перекрёстное загрязнение,7,2,3.5
+XLM-R,T0070,cook,calque,kk,тоғыспалы ластану,6,2,3.0
+XLM-R,T0071,cook,calque,en,food poisoning,4,2,2.0
+XLM-R,T0071,cook,calque,ru,пищевое отравление,5,2,2.5
+XLM-R,T0071,cook,calque,kk,тағамнан улану,4,2,2.0
+XLM-R,T0072,cook,hybrid,en,temperature control,2,2,1.0
+XLM-R,T0072,cook,hybrid,ru,контроль температуры,3,2,1.5
+XLM-R,T0072,cook,hybrid,kk,температураны бақылау,3,2,1.5
+XLM-R,T0073,cook,calque,en,expiration date,3,2,1.5
+XLM-R,T0073,cook,calque,ru,срок годности,3,2,1.5
+XLM-R,T0073,cook,calque,kk,жарамдылық мерзімі,4,2,2.0
+XLM-R,T0074,cook,borrowing,en,allergen,2,1,2.0
+XLM-R,T0074,cook,borrowing,ru,аллерген,2,1,2.0
+XLM-R,T0074,cook,borrowing,kk,аллерген,2,1,2.0
+XLM-R,T0075,cook,hybrid,en,sanitization,2,1,2.0
+XLM-R,T0075,cook,hybrid,ru,санитарная обработка,3,2,1.5
+XLM-R,T0075,cook,hybrid,kk,санитариялық өңдеу,3,2,1.5
+XLM-R,T0076,cook,calque,en,disinfection,3,1,3.0
+XLM-R,T0076,cook,calque,ru,дезинфекция,4,1,4.0
+XLM-R,T0076,cook,calque,kk,залалсыздандыру,6,1,6.0
+XLM-R,T0077,cook,calque,en,hazard analysis and critical control points,6,6,1.0
+XLM-R,T0077,cook,calque,ru,анализ опасных факторов и критические точки контроля,9,7,1.2857142857142858
+XLM-R,T0077,cook,calque,kk,қауіпті факторларды және бақылаудың сындарлы нүктелерін талдау,14,7,2.0
+XLM-R,T0078,cook,hybrid,en,mise en place,3,3,1.0
+XLM-R,T0078,cook,hybrid,ru,подготовка рабочего места и ингредиентов,9,5,1.8
+XLM-R,T0078,cook,hybrid,kk,жұмыс орнын және ингредиенттерді алдын ала дайындау,11,7,1.5714285714285714
+XLM-R,T0079,cook,native,en,blanching,2,1,2.0
+XLM-R,T0079,cook,native,ru,бланширование,4,1,4.0
+XLM-R,T0079,cook,native,kk,шарпылау,3,1,3.0
+XLM-R,T0080,cook,native,en,boiling,2,1,2.0
+XLM-R,T0080,cook,native,ru,варка,2,1,2.0
+XLM-R,T0080,cook,native,kk,қайнату,3,1,3.0
+XLM-R,T0081,cook,calque,en,steaming,2,1,2.0
+XLM-R,T0081,cook,calque,ru,приготовление на пару,4,3,1.3333333333333333
+XLM-R,T0081,cook,calque,kk,буға пісіру,4,2,2.0
+XLM-R,T0082,cook,native,en,frying,2,1,2.0
+XLM-R,T0082,cook,native,ru,жарка,2,1,2.0
+XLM-R,T0082,cook,native,kk,қуыру,4,1,4.0
+XLM-R,T0083,cook,native,en,baking,2,1,2.0
+XLM-R,T0083,cook,native,ru,выпекание,3,1,3.0
+XLM-R,T0083,cook,native,kk,пісірме,3,1,3.0
+XLM-R,T0084,cook,native,en,stewing,2,1,2.0
+XLM-R,T0084,cook,native,ru,тушение,2,1,2.0
+XLM-R,T0084,cook,native,kk,бұқтыру,3,1,3.0
+XLM-R,T0085,cook,hybrid,en,marinating,2,1,2.0
+XLM-R,T0085,cook,hybrid,ru,маринование,3,1,3.0
+XLM-R,T0085,cook,hybrid,kk,маринадтау,4,1,4.0
+XLM-R,T0086,cook,hybrid,en,fermentation,2,1,2.0
+XLM-R,T0086,cook,hybrid,ru,ферментация,2,1,2.0
+XLM-R,T0086,cook,hybrid,kk,ферменттеу,3,1,3.0
+XLM-R,T0087,cook,hybrid,en,pasteurization,3,1,3.0
+XLM-R,T0087,cook,hybrid,ru,пастеризация,3,1,3.0
+XLM-R,T0087,cook,hybrid,kk,пастерлеу,3,1,3.0
+XLM-R,T0088,cook,native,en,cooling,2,1,2.0
+XLM-R,T0088,cook,native,ru,охлаждение,3,1,3.0
+XLM-R,T0088,cook,native,kk,салқындату,4,1,4.0
+XLM-R,T0089,cook,native,en,thawing,2,1,2.0
+XLM-R,T0089,cook,native,ru,размораживание,4,1,4.0
+XLM-R,T0089,cook,native,kk,жібіту,4,1,4.0
+XLM-R,T0090,cook,hybrid,en,portioning,2,1,2.0
+XLM-R,T0090,cook,hybrid,ru,порционирование,3,1,3.0
+XLM-R,T0090,cook,hybrid,kk,порциялау,3,1,3.0
+XLM-R,T0091,cook,calque,en,plating,2,1,2.0
+XLM-R,T0091,cook,calque,ru,оформление и подача блюда,6,4,1.5
+XLM-R,T0091,cook,calque,kk,тағамды безендіру және ұсыну,7,4,1.75
+XLM-R,T0092,cook,calque,en,cutting board,3,2,1.5
+XLM-R,T0092,cook,calque,ru,разделочная доска,5,2,2.5
+XLM-R,T0092,cook,calque,kk,бөлшектеу тақтайы,6,2,3.0
+XLM-R,T0093,cook,calque,en,chef's knife,5,2,2.5
+XLM-R,T0093,cook,calque,ru,поварской нож,4,2,2.0
+XLM-R,T0093,cook,calque,kk,аспаз пышағы,5,2,2.5
+XLM-R,T0094,cook,hybrid,en,food thermometer,3,2,1.5
+XLM-R,T0094,cook,hybrid,ru,пищевой термометр,4,2,2.0
+XLM-R,T0094,cook,hybrid,kk,тағам термометрі,4,2,2.0
+XLM-R,T0095,cook,native,en,refrigerator,2,1,2.0
+XLM-R,T0095,cook,native,ru,холодильник,1,1,1.0
+XLM-R,T0095,cook,native,kk,тоңазытқыш,5,1,5.0
+XLM-R,T0096,cook,hybrid,en,convection oven,4,2,2.0
+XLM-R,T0096,cook,hybrid,ru,конвекционная печь,6,2,3.0
+XLM-R,T0096,cook,hybrid,kk,конвекциялық пеш,5,2,2.5
+XLM-R,T0097,cook,hybrid,en,raw ingredient,2,2,1.0
+XLM-R,T0097,cook,hybrid,ru,сырой ингредиент,6,2,3.0
+XLM-R,T0097,cook,hybrid,kk,шикі ингредиент,6,2,3.0
+XLM-R,T0098,cook,calque,en,perishable food,4,2,2.0
+XLM-R,T0098,cook,calque,ru,скоропортящийся продукт,5,2,2.5
+XLM-R,T0098,cook,calque,kk,тез бұзылғыш азық-түлік,8,3,2.6666666666666665
+XLM-R,T0099,cook,borrowing,en,recipe,1,1,1.0
+XLM-R,T0099,cook,borrowing,ru,рецепт,1,1,1.0
+XLM-R,T0099,cook,borrowing,kk,рецепт,1,1,1.0
+XLM-R,T0100,cook,calque,en,yield,2,1,2.0
+XLM-R,T0100,cook,calque,ru,выход готового блюда,5,3,1.6666666666666667
+XLM-R,T0100,cook,calque,kk,тағам шығымы,4,2,2.0
+NLLB-200,T0001,it_technician,calque,en,operating system,2,2,1.0
+NLLB-200,T0001,it_technician,calque,ru,операционная система,4,2,2.0
+NLLB-200,T0001,it_technician,calque,kk,операциялық жүйе,3,2,1.5
+NLLB-200,T0002,it_technician,calque,en,database,1,1,1.0
+NLLB-200,T0002,it_technician,calque,ru,база данных,2,2,1.0
+NLLB-200,T0002,it_technician,calque,kk,дерекқор,2,1,2.0
+NLLB-200,T0003,it_technician,borrowing,en,algorithm,2,1,2.0
+NLLB-200,T0003,it_technician,borrowing,ru,алгоритм,3,1,3.0
+NLLB-200,T0003,it_technician,borrowing,kk,алгоритм,3,1,3.0
+NLLB-200,T0004,it_technician,calque,en,programming language,3,2,1.5
+NLLB-200,T0004,it_technician,calque,ru,язык программирования,5,2,2.5
+NLLB-200,T0004,it_technician,calque,kk,бағдарламалау тілі,3,2,1.5
+NLLB-200,T0005,it_technician,calque,en,source code,2,2,1.0
+NLLB-200,T0005,it_technician,calque,ru,исходный код,4,2,2.0
+NLLB-200,T0005,it_technician,calque,kk,бастапқы код,2,2,1.0
+NLLB-200,T0006,it_technician,native,en,variable,1,1,1.0
+NLLB-200,T0006,it_technician,native,ru,переменная,3,1,3.0
+NLLB-200,T0006,it_technician,native,kk,айнымалы,3,1,3.0
+NLLB-200,T0007,it_technician,borrowing,en,function,1,1,1.0
+NLLB-200,T0007,it_technician,borrowing,ru,функция,1,1,1.0
+NLLB-200,T0007,it_technician,borrowing,kk,функция,1,1,1.0
+NLLB-200,T0008,it_technician,calque,en,data structure,2,2,1.0
+NLLB-200,T0008,it_technician,calque,ru,структура данных,2,2,1.0
+NLLB-200,T0008,it_technician,calque,kk,деректер құрылымы,3,2,1.5
+NLLB-200,T0009,it_technician,hybrid,en,application programming interface,4,3,1.3333333333333333
+NLLB-200,T0009,it_technician,hybrid,ru,интерфейс программирования приложений,8,3,2.6666666666666665
+NLLB-200,T0009,it_technician,hybrid,kk,қолданбалы бағдарламалау интерфейсі,8,3,2.6666666666666665
+NLLB-200,T0010,it_technician,calque,en,version control,2,2,1.0
+NLLB-200,T0010,it_technician,calque,ru,управление версиями,4,2,2.0
+NLLB-200,T0010,it_technician,calque,kk,нұсқаларды басқару,3,2,1.5
+NLLB-200,T0011,it_technician,calque,en,debugging,2,1,2.0
+NLLB-200,T0011,it_technician,calque,ru,отладка,3,1,3.0
+NLLB-200,T0011,it_technician,calque,kk,қателерді түзету,3,2,1.5
+NLLB-200,T0012,it_technician,hybrid,en,testing,1,1,1.0
+NLLB-200,T0012,it_technician,hybrid,ru,тестирование,2,1,2.0
+NLLB-200,T0012,it_technician,hybrid,kk,тестілеу,3,1,3.0
+NLLB-200,T0013,it_technician,calque,en,deployment,3,1,3.0
+NLLB-200,T0013,it_technician,calque,ru,развёртывание,5,1,5.0
+NLLB-200,T0013,it_technician,calque,kk,қолданысқа енгізу,2,2,1.0
+NLLB-200,T0014,it_technician,hybrid,en,backup,1,1,1.0
+NLLB-200,T0014,it_technician,hybrid,ru,резервное копирование,5,2,2.5
+NLLB-200,T0014,it_technician,hybrid,kk,резервтік көшіру,4,2,2.0
+NLLB-200,T0015,it_technician,hybrid,en,data encryption,4,2,2.0
+NLLB-200,T0015,it_technician,hybrid,ru,шифрование данных,4,2,2.0
+NLLB-200,T0015,it_technician,hybrid,kk,деректерді шифрлау,5,2,2.5
+NLLB-200,T0016,it_technician,calque,en,access control,2,2,1.0
+NLLB-200,T0016,it_technician,calque,ru,контроль доступа,3,2,1.5
+NLLB-200,T0016,it_technician,calque,kk,қолжеткізуді бақылау,6,2,3.0
+NLLB-200,T0017,it_technician,calque,en,authentication,2,1,2.0
+NLLB-200,T0017,it_technician,calque,ru,аутентификация,4,1,4.0
+NLLB-200,T0017,it_technician,calque,kk,түпнұсқалықты растау,5,2,2.5
+NLLB-200,T0018,it_technician,calque,en,malware,1,1,1.0
+NLLB-200,T0018,it_technician,calque,ru,вредоносное ПО,7,2,3.5
+NLLB-200,T0018,it_technician,calque,kk,зиянды бағдарламалық жасақтама,7,3,2.3333333333333335
+NLLB-200,T0019,it_technician,borrowing,en,server,1,1,1.0
+NLLB-200,T0019,it_technician,borrowing,ru,сервер,2,1,2.0
+NLLB-200,T0019,it_technician,borrowing,kk,сервер,2,1,2.0
+NLLB-200,T0020,it_technician,borrowing,en,router,1,1,1.0
+NLLB-200,T0020,it_technician,borrowing,ru,маршрутизатор,4,1,4.0
+NLLB-200,T0020,it_technician,borrowing,kk,маршрутизатор,4,1,4.0
+NLLB-200,T0021,it_technician,hybrid,en,network switch,2,2,1.0
+NLLB-200,T0021,it_technician,hybrid,ru,сетевой коммутатор,6,2,3.0
+NLLB-200,T0021,it_technician,hybrid,kk,желілік коммутатор,5,2,2.5
+NLLB-200,T0022,it_technician,calque,en,motherboard,2,1,2.0
+NLLB-200,T0022,it_technician,calque,ru,материнская плата,5,2,2.5
+NLLB-200,T0022,it_technician,calque,kk,жүйелік тақша,4,2,2.0
+NLLB-200,T0023,it_technician,borrowing,en,processor,2,1,2.0
+NLLB-200,T0023,it_technician,borrowing,ru,процессор,2,1,2.0
+NLLB-200,T0023,it_technician,borrowing,kk,процессор,2,1,2.0
+NLLB-200,T0024,it_technician,calque,en,random access memory,3,3,1.0
+NLLB-200,T0024,it_technician,calque,ru,оперативная память,5,2,2.5
+NLLB-200,T0024,it_technician,calque,kk,жедел жад,3,2,1.5
+NLLB-200,T0025,it_technician,calque,en,solid-state drive,4,2,2.0
+NLLB-200,T0025,it_technician,calque,ru,твердотельный накопитель,6,2,3.0
+NLLB-200,T0025,it_technician,calque,kk,қатты денелі жинақтағыш,6,3,2.0
+NLLB-200,T0026,it_technician,calque,en,power supply unit,3,3,1.0
+NLLB-200,T0026,it_technician,calque,ru,блок питания,3,2,1.5
+NLLB-200,T0026,it_technician,calque,kk,қуат блогы,4,2,2.0
+NLLB-200,T0027,it_technician,hybrid,en,IP address,2,2,1.0
+NLLB-200,T0027,it_technician,hybrid,ru,IP-адрес,4,1,4.0
+NLLB-200,T0027,it_technician,hybrid,kk,IP мекенжайы,3,2,1.5
+NLLB-200,T0028,it_technician,calque,en,local area network,3,3,1.0
+NLLB-200,T0028,it_technician,calque,ru,локальная сеть,4,2,2.0
+NLLB-200,T0028,it_technician,calque,kk,жергілікті желі,2,2,1.0
+NLLB-200,T0029,it_technician,calque,en,bandwidth,3,1,3.0
+NLLB-200,T0029,it_technician,calque,ru,пропускная способность,6,2,3.0
+NLLB-200,T0029,it_technician,calque,kk,өткізу қабілеті,4,2,2.0
+NLLB-200,T0030,it_technician,native,en,latency,2,1,2.0
+NLLB-200,T0030,it_technician,native,ru,задержка,3,1,3.0
+NLLB-200,T0030,it_technician,native,kk,кідіріс,3,1,3.0
+NLLB-200,T0031,it_technician,calque,en,software update,2,2,1.0
+NLLB-200,T0031,it_technician,calque,ru,обновление ПО,4,2,2.0
+NLLB-200,T0031,it_technician,calque,kk,бағдарламалық жасақтаманы жаңарту,7,3,2.3333333333333335
+NLLB-200,T0032,it_technician,calque,en,troubleshooting,4,1,4.0
+NLLB-200,T0032,it_technician,calque,ru,поиск и устранение неисправностей,11,4,2.75
+NLLB-200,T0032,it_technician,calque,kk,ақауларды анықтау және жою,6,4,1.5
+NLLB-200,T0033,it_technician,calque,en,user permissions,3,2,1.5
+NLLB-200,T0033,it_technician,calque,ru,права пользователя,3,2,1.5
+NLLB-200,T0033,it_technician,calque,kk,пайдаланушы құқықтары,3,2,1.5
+NLLB-200,T0034,it_technician,calque,en,cloud storage,2,2,1.0
+NLLB-200,T0034,it_technician,calque,ru,облачное хранилище,5,2,2.5
+NLLB-200,T0034,it_technician,calque,kk,бұлттық қойма,3,2,1.5
+NLLB-200,T0035,electrician,hybrid,en,electrical safety,3,2,1.5
+NLLB-200,T0035,electrician,hybrid,ru,электробезопасность,6,1,6.0
+NLLB-200,T0035,electrician,hybrid,kk,электр қауіпсіздігі,3,2,1.5
+NLLB-200,T0036,electrician,calque,en,personal protective equipment,4,3,1.3333333333333333
+NLLB-200,T0036,electrician,calque,ru,средства индивидуальной защиты,4,3,1.3333333333333333
+NLLB-200,T0036,electrician,calque,kk,жеке қорғаныс құралдары,4,3,1.3333333333333333
+NLLB-200,T0037,electrician,calque,en,protective grounding,4,2,2.0
+NLLB-200,T0037,electrician,calque,ru,защитное заземление,6,2,3.0
+NLLB-200,T0037,electrician,calque,kk,қорғаныс жерлендіру,5,2,2.5
+NLLB-200,T0038,electrician,hybrid,en,electric shock,2,2,1.0
+NLLB-200,T0038,electrician,hybrid,ru,поражение электрическим током,6,3,2.0
+NLLB-200,T0038,electrician,hybrid,kk,электр тоғымен зақымдану,7,3,2.3333333333333335
+NLLB-200,T0039,electrician,calque,en,lockout and tagout,5,3,1.6666666666666667
+NLLB-200,T0039,electrician,calque,ru,блокировка и маркировка,6,3,2.0
+NLLB-200,T0039,electrician,calque,kk,бұғаттау және таңбалау,7,3,2.3333333333333335
+NLLB-200,T0040,electrician,calque,en,de-energization,4,1,4.0
+NLLB-200,T0040,electrician,calque,ru,снятие напряжения,5,2,2.5
+NLLB-200,T0040,electrician,calque,kk,кернеуді ажырату,6,2,3.0
+NLLB-200,T0041,electrician,calque,en,insulation resistance,4,2,2.0
+NLLB-200,T0041,electrician,calque,ru,сопротивление изоляции,6,2,3.0
+NLLB-200,T0041,electrician,calque,kk,оқшаулау кедергісі,6,2,3.0
+NLLB-200,T0042,electrician,calque,en,short circuit,2,2,1.0
+NLLB-200,T0042,electrician,calque,ru,короткое замыкание,6,2,3.0
+NLLB-200,T0042,electrician,calque,kk,қысқа тұйықталу,5,2,2.5
+NLLB-200,T0043,electrician,calque,en,overload,2,1,2.0
+NLLB-200,T0043,electrician,calque,ru,перегрузка,4,1,4.0
+NLLB-200,T0043,electrician,calque,kk,артық жүктемесі,4,2,2.0
+NLLB-200,T0044,electrician,hybrid,en,electric current,2,2,1.0
+NLLB-200,T0044,electrician,hybrid,ru,электрический ток,4,2,2.0
+NLLB-200,T0044,electrician,hybrid,kk,электр тоқ,3,2,1.5
+NLLB-200,T0045,electrician,native,en,voltage,2,1,2.0
+NLLB-200,T0045,electrician,native,ru,напряжение,2,1,2.0
+NLLB-200,T0045,electrician,native,kk,кернеу,3,1,3.0
+NLLB-200,T0046,electrician,native,en,resistance,2,1,2.0
+NLLB-200,T0046,electrician,native,ru,сопротивление,3,1,3.0
+NLLB-200,T0046,electrician,native,kk,кедергі,1,1,1.0
+NLLB-200,T0047,electrician,native,en,power,1,1,1.0
+NLLB-200,T0047,electrician,native,ru,мощность,2,1,2.0
+NLLB-200,T0047,electrician,native,kk,қуат,2,1,2.0
+NLLB-200,T0048,electrician,hybrid,en,alternating current,3,2,1.5
+NLLB-200,T0048,electrician,hybrid,ru,переменный ток,4,2,2.0
+NLLB-200,T0048,electrician,hybrid,kk,айнымалы ток,4,2,2.0
+NLLB-200,T0049,electrician,hybrid,en,direct current,2,2,1.0
+NLLB-200,T0049,electrician,hybrid,ru,постоянный ток,3,2,1.5
+NLLB-200,T0049,electrician,hybrid,kk,тұрақты ток,2,2,1.0
+NLLB-200,T0050,electrician,hybrid,en,three-phase system,5,2,2.5
+NLLB-200,T0050,electrician,hybrid,ru,трёхфазная система,7,2,3.5
+NLLB-200,T0050,electrician,hybrid,kk,үш фазалы жүйе,4,3,1.3333333333333333
+NLLB-200,T0051,electrician,hybrid,en,circuit breaker,3,2,1.5
+NLLB-200,T0051,electrician,hybrid,ru,автоматический выключатель,6,2,3.0
+NLLB-200,T0051,electrician,hybrid,kk,автоматтық ажыратқыш,5,2,2.5
+NLLB-200,T0052,electrician,calque,en,residual current device,4,3,1.3333333333333333
+NLLB-200,T0052,electrician,calque,ru,устройство защитного отключения,7,3,2.3333333333333335
+NLLB-200,T0052,electrician,calque,kk,қорғаныстық ажырату құрылғысы,7,3,2.3333333333333335
+NLLB-200,T0053,electrician,native,en,fuse,2,1,2.0
+NLLB-200,T0053,electrician,native,ru,предохранитель,4,1,4.0
+NLLB-200,T0053,electrician,native,kk,сақтандырғыш,4,1,4.0
+NLLB-200,T0054,electrician,borrowing,en,transformer,2,1,2.0
+NLLB-200,T0054,electrician,borrowing,ru,трансформатор,2,1,2.0
+NLLB-200,T0054,electrician,borrowing,kk,трансформатор,2,1,2.0
+NLLB-200,T0055,electrician,hybrid,en,electric motor,2,2,1.0
+NLLB-200,T0055,electrician,hybrid,ru,электродвигатель,5,1,5.0
+NLLB-200,T0055,electrician,hybrid,kk,электр қозғалтқышы,5,2,2.5
+NLLB-200,T0056,electrician,borrowing,en,generator,1,1,1.0
+NLLB-200,T0056,electrician,borrowing,ru,генератор,2,1,2.0
+NLLB-200,T0056,electrician,borrowing,kk,генератор,2,1,2.0
+NLLB-200,T0057,electrician,borrowing,en,contactor,2,1,2.0
+NLLB-200,T0057,electrician,borrowing,ru,контактор,3,1,3.0
+NLLB-200,T0057,electrician,borrowing,kk,контактор,3,1,3.0
+NLLB-200,T0058,electrician,borrowing,en,relay,2,1,2.0
+NLLB-200,T0058,electrician,borrowing,ru,реле,1,1,1.0
+NLLB-200,T0058,electrician,borrowing,kk,реле,1,1,1.0
+NLLB-200,T0059,electrician,hybrid,en,terminal block,2,2,1.0
+NLLB-200,T0059,electrician,hybrid,ru,клеммная колодка,6,2,3.0
+NLLB-200,T0059,electrician,hybrid,kk,клеммалық жалғау қысқыштарының блогі,12,4,3.0
+NLLB-200,T0060,electrician,borrowing,en,multimeter,2,1,2.0
+NLLB-200,T0060,electrician,borrowing,ru,мультиметр,4,1,4.0
+NLLB-200,T0060,electrician,borrowing,kk,мультиметр,4,1,4.0
+NLLB-200,T0061,electrician,calque,en,voltage tester,3,2,1.5
+NLLB-200,T0061,electrician,calque,ru,указатель напряжения,4,2,2.0
+NLLB-200,T0061,electrician,calque,kk,кернеу көрсеткіші,5,2,2.5
+NLLB-200,T0062,electrician,native,en,conductor,2,1,2.0
+NLLB-200,T0062,electrician,native,ru,проводник,2,1,2.0
+NLLB-200,T0062,electrician,native,kk,өткізгіш,3,1,3.0
+NLLB-200,T0063,electrician,native,en,insulator,2,1,2.0
+NLLB-200,T0063,electrician,native,ru,изолятор,3,1,3.0
+NLLB-200,T0063,electrician,native,kk,оқшаулағыш,4,1,4.0
+NLLB-200,T0064,electrician,borrowing,en,cable,1,1,1.0
+NLLB-200,T0064,electrician,borrowing,ru,кабель,2,1,2.0
+NLLB-200,T0064,electrician,borrowing,kk,кабель,2,1,2.0
+NLLB-200,T0065,electrician,hybrid,en,wiring installation,3,2,1.5
+NLLB-200,T0065,electrician,hybrid,ru,монтаж электропроводки,6,2,3.0
+NLLB-200,T0065,electrician,hybrid,kk,электр сымдарын монтаждау,8,3,2.6666666666666665
+NLLB-200,T0066,electrician,calque,en,continuity test,3,2,1.5
+NLLB-200,T0066,electrician,calque,ru,проверка целостности цепи,7,3,2.3333333333333335
+NLLB-200,T0066,electrician,calque,kk,тізбектің бүтіндігін тексеру,7,3,2.3333333333333335
+NLLB-200,T0067,electrician,hybrid,en,preventive maintenance,3,2,1.5
+NLLB-200,T0067,electrician,hybrid,ru,профилактическое обслуживание,5,2,2.5
+NLLB-200,T0067,electrician,hybrid,kk,профилактикалық қызмет көрсету,5,3,1.6666666666666667
+NLLB-200,T0068,cook,calque,en,food safety,2,2,1.0
+NLLB-200,T0068,cook,calque,ru,безопасность пищевых продуктов,8,3,2.6666666666666665
+NLLB-200,T0068,cook,calque,kk,азық-түлік қауіпсіздігі,7,2,3.5
+NLLB-200,T0069,cook,hybrid,en,personal hygiene,4,2,2.0
+NLLB-200,T0069,cook,hybrid,ru,личная гигиена,5,2,2.5
+NLLB-200,T0069,cook,hybrid,kk,жеке гигиена,4,2,2.0
+NLLB-200,T0070,cook,calque,en,cross-contamination,5,1,5.0
+NLLB-200,T0070,cook,calque,ru,перекрёстное загрязнение,9,2,4.5
+NLLB-200,T0070,cook,calque,kk,тоғыспалы ластану,6,2,3.0
+NLLB-200,T0071,cook,calque,en,food poisoning,4,2,2.0
+NLLB-200,T0071,cook,calque,ru,пищевое отравление,6,2,3.0
+NLLB-200,T0071,cook,calque,kk,тағамнан улану,5,2,2.5
+NLLB-200,T0072,cook,hybrid,en,temperature control,2,2,1.0
+NLLB-200,T0072,cook,hybrid,ru,контроль температуры,3,2,1.5
+NLLB-200,T0072,cook,hybrid,kk,температураны бақылау,3,2,1.5
+NLLB-200,T0073,cook,calque,en,expiration date,3,2,1.5
+NLLB-200,T0073,cook,calque,ru,срок годности,3,2,1.5
+NLLB-200,T0073,cook,calque,kk,жарамдылық мерзімі,4,2,2.0
+NLLB-200,T0074,cook,borrowing,en,allergen,2,1,2.0
+NLLB-200,T0074,cook,borrowing,ru,аллерген,3,1,3.0
+NLLB-200,T0074,cook,borrowing,kk,аллерген,3,1,3.0
+NLLB-200,T0075,cook,hybrid,en,sanitization,3,1,3.0
+NLLB-200,T0075,cook,hybrid,ru,санитарная обработка,5,2,2.5
+NLLB-200,T0075,cook,hybrid,kk,санитариялық өңдеу,3,2,1.5
+NLLB-200,T0076,cook,calque,en,disinfection,3,1,3.0
+NLLB-200,T0076,cook,calque,ru,дезинфекция,4,1,4.0
+NLLB-200,T0076,cook,calque,kk,залалсыздандыру,4,1,4.0
+NLLB-200,T0077,cook,calque,en,hazard analysis and critical control points,7,6,1.1666666666666667
+NLLB-200,T0077,cook,calque,ru,анализ опасных факторов и критические точки контроля,11,7,1.5714285714285714
+NLLB-200,T0077,cook,calque,kk,қауіпті факторларды және бақылаудың сындарлы нүктелерін талдау,13,7,1.8571428571428572
+NLLB-200,T0078,cook,hybrid,en,mise en place,3,3,1.0
+NLLB-200,T0078,cook,hybrid,ru,подготовка рабочего места и ингредиентов,11,5,2.2
+NLLB-200,T0078,cook,hybrid,kk,жұмыс орнын және ингредиенттерді алдын ала дайындау,12,7,1.7142857142857142
+NLLB-200,T0079,cook,native,en,blanching,2,1,2.0
+NLLB-200,T0079,cook,native,ru,бланширование,4,1,4.0
+NLLB-200,T0079,cook,native,kk,шарпылау,3,1,3.0
+NLLB-200,T0080,cook,native,en,boiling,2,1,2.0
+NLLB-200,T0080,cook,native,ru,варка,2,1,2.0
+NLLB-200,T0080,cook,native,kk,қайнату,3,1,3.0
+NLLB-200,T0081,cook,calque,en,steaming,2,1,2.0
+NLLB-200,T0081,cook,calque,ru,приготовление на пару,5,3,1.6666666666666667
+NLLB-200,T0081,cook,calque,kk,буға пісіру,5,2,2.5
+NLLB-200,T0082,cook,native,en,frying,2,1,2.0
+NLLB-200,T0082,cook,native,ru,жарка,2,1,2.0
+NLLB-200,T0082,cook,native,kk,қуыру,3,1,3.0
+NLLB-200,T0083,cook,native,en,baking,2,1,2.0
+NLLB-200,T0083,cook,native,ru,выпекание,4,1,4.0
+NLLB-200,T0083,cook,native,kk,пісірме,3,1,3.0
+NLLB-200,T0084,cook,native,en,stewing,2,1,2.0
+NLLB-200,T0084,cook,native,ru,тушение,2,1,2.0
+NLLB-200,T0084,cook,native,kk,бұқтыру,2,1,2.0
+NLLB-200,T0085,cook,hybrid,en,marinating,2,1,2.0
+NLLB-200,T0085,cook,hybrid,ru,маринование,4,1,4.0
+NLLB-200,T0085,cook,hybrid,kk,маринадтау,4,1,4.0
+NLLB-200,T0086,cook,hybrid,en,fermentation,2,1,2.0
+NLLB-200,T0086,cook,hybrid,ru,ферментация,3,1,3.0
+NLLB-200,T0086,cook,hybrid,kk,ферменттеу,3,1,3.0
+NLLB-200,T0087,cook,hybrid,en,pasteurization,4,1,4.0
+NLLB-200,T0087,cook,hybrid,ru,пастеризация,4,1,4.0
+NLLB-200,T0087,cook,hybrid,kk,пастерлеу,3,1,3.0
+NLLB-200,T0088,cook,native,en,cooling,2,1,2.0
+NLLB-200,T0088,cook,native,ru,охлаждение,3,1,3.0
+NLLB-200,T0088,cook,native,kk,салқындату,3,1,3.0
+NLLB-200,T0089,cook,native,en,thawing,2,1,2.0
+NLLB-200,T0089,cook,native,ru,размораживание,4,1,4.0
+NLLB-200,T0089,cook,native,kk,жібіту,3,1,3.0
+NLLB-200,T0090,cook,hybrid,en,portioning,3,1,3.0
+NLLB-200,T0090,cook,hybrid,ru,порционирование,3,1,3.0
+NLLB-200,T0090,cook,hybrid,kk,порциялау,2,1,2.0
+NLLB-200,T0091,cook,calque,en,plating,2,1,2.0
+NLLB-200,T0091,cook,calque,ru,оформление и подача блюда,8,4,2.0
+NLLB-200,T0091,cook,calque,kk,тағамды безендіру және ұсыну,8,4,2.0
+NLLB-200,T0092,cook,calque,en,cutting board,3,2,1.5
+NLLB-200,T0092,cook,calque,ru,разделочная доска,5,2,2.5
+NLLB-200,T0092,cook,calque,kk,бөлшектеу тақтайы,5,2,2.5
+NLLB-200,T0093,cook,calque,en,chef's knife,5,2,2.5
+NLLB-200,T0093,cook,calque,ru,поварской нож,5,2,2.5
+NLLB-200,T0093,cook,calque,kk,аспаз пышағы,5,2,2.5
+NLLB-200,T0094,cook,hybrid,en,food thermometer,4,2,2.0
+NLLB-200,T0094,cook,hybrid,ru,пищевой термометр,6,2,3.0
+NLLB-200,T0094,cook,hybrid,kk,тағам термометрі,6,2,3.0
+NLLB-200,T0095,cook,native,en,refrigerator,2,1,2.0
+NLLB-200,T0095,cook,native,ru,холодильник,3,1,3.0
+NLLB-200,T0095,cook,native,kk,тоңазытқыш,5,1,5.0
+NLLB-200,T0096,cook,hybrid,en,convection oven,4,2,2.0
+NLLB-200,T0096,cook,hybrid,ru,конвекционная печь,6,2,3.0
+NLLB-200,T0096,cook,hybrid,kk,конвекциялық пеш,4,2,2.0
+NLLB-200,T0097,cook,hybrid,en,raw ingredient,3,2,1.5
+NLLB-200,T0097,cook,hybrid,ru,сырой ингредиент,6,2,3.0
+NLLB-200,T0097,cook,hybrid,kk,шикі ингредиент,6,2,3.0
+NLLB-200,T0098,cook,calque,en,perishable food,4,2,2.0
+NLLB-200,T0098,cook,calque,ru,скоропортящийся продукт,6,2,3.0
+NLLB-200,T0098,cook,calque,kk,тез бұзылғыш азық-түлік,10,3,3.3333333333333335
+NLLB-200,T0099,cook,borrowing,en,recipe,2,1,2.0
+NLLB-200,T0099,cook,borrowing,ru,рецепт,2,1,2.0
+NLLB-200,T0099,cook,borrowing,kk,рецепт,2,1,2.0
+NLLB-200,T0100,cook,calque,en,yield,1,1,1.0
+NLLB-200,T0100,cook,calque,ru,выход готового блюда,6,3,2.0
+NLLB-200,T0100,cook,calque,kk,тағам шығымы,4,2,2.0
+Qwen2.5,T0001,it_technician,calque,en,operating system,3,2,1.5
+Qwen2.5,T0001,it_technician,calque,ru,операционная система,4,2,2.0
+Qwen2.5,T0001,it_technician,calque,kk,операциялық жүйе,8,2,4.0
+Qwen2.5,T0002,it_technician,calque,en,database,1,1,1.0
+Qwen2.5,T0002,it_technician,calque,ru,база данных,4,2,2.0
+Qwen2.5,T0002,it_technician,calque,kk,дерекқор,4,1,4.0
+Qwen2.5,T0003,it_technician,borrowing,en,algorithm,1,1,1.0
+Qwen2.5,T0003,it_technician,borrowing,ru,алгоритм,4,1,4.0
+Qwen2.5,T0003,it_technician,borrowing,kk,алгоритм,4,1,4.0
+Qwen2.5,T0004,it_technician,calque,en,programming language,2,2,1.0
+Qwen2.5,T0004,it_technician,calque,ru,язык программирования,5,2,2.5
+Qwen2.5,T0004,it_technician,calque,kk,бағдарламалау тілі,11,2,5.5
+Qwen2.5,T0005,it_technician,calque,en,source code,2,2,1.0
+Qwen2.5,T0005,it_technician,calque,ru,исходный код,4,2,2.0
+Qwen2.5,T0005,it_technician,calque,kk,бастапқы код,6,2,3.0
+Qwen2.5,T0006,it_technician,native,en,variable,1,1,1.0
+Qwen2.5,T0006,it_technician,native,ru,переменная,3,1,3.0
+Qwen2.5,T0006,it_technician,native,kk,айнымалы,4,1,4.0
+Qwen2.5,T0007,it_technician,borrowing,en,function,1,1,1.0
+Qwen2.5,T0007,it_technician,borrowing,ru,функция,2,1,2.0
+Qwen2.5,T0007,it_technician,borrowing,kk,функция,2,1,2.0
+Qwen2.5,T0008,it_technician,calque,en,data structure,2,2,1.0
+Qwen2.5,T0008,it_technician,calque,ru,структура данных,4,2,2.0
+Qwen2.5,T0008,it_technician,calque,kk,деректер құрылымы,10,2,5.0
+Qwen2.5,T0009,it_technician,hybrid,en,application programming interface,3,3,1.0
+Qwen2.5,T0009,it_technician,hybrid,ru,интерфейс программирования приложений,8,3,2.6666666666666665
+Qwen2.5,T0009,it_technician,hybrid,kk,қолданбалы бағдарламалау интерфейсі,17,3,5.666666666666667
+Qwen2.5,T0010,it_technician,calque,en,version control,2,2,1.0
+Qwen2.5,T0010,it_technician,calque,ru,управление версиями,7,2,3.5
+Qwen2.5,T0010,it_technician,calque,kk,нұсқаларды басқару,12,2,6.0
+Qwen2.5,T0011,it_technician,calque,en,debugging,2,1,2.0
+Qwen2.5,T0011,it_technician,calque,ru,отладка,3,1,3.0
+Qwen2.5,T0011,it_technician,calque,kk,қателерді түзету,11,2,5.5
+Qwen2.5,T0012,it_technician,hybrid,en,testing,1,1,1.0
+Qwen2.5,T0012,it_technician,hybrid,ru,тестирование,3,1,3.0
+Qwen2.5,T0012,it_technician,hybrid,kk,тестілеу,5,1,5.0
+Qwen2.5,T0013,it_technician,calque,en,deployment,1,1,1.0
+Qwen2.5,T0013,it_technician,calque,ru,развёртывание,6,1,6.0
+Qwen2.5,T0013,it_technician,calque,kk,қолданысқа енгізу,12,2,6.0
+Qwen2.5,T0014,it_technician,hybrid,en,backup,1,1,1.0
+Qwen2.5,T0014,it_technician,hybrid,ru,резервное копирование,7,2,3.5
+Qwen2.5,T0014,it_technician,hybrid,kk,резервтік көшіру,11,2,5.5
+Qwen2.5,T0015,it_technician,hybrid,en,data encryption,2,2,1.0
+Qwen2.5,T0015,it_technician,hybrid,ru,шифрование данных,5,2,2.5
+Qwen2.5,T0015,it_technician,hybrid,kk,деректерді шифрлау,10,2,5.0
+Qwen2.5,T0016,it_technician,calque,en,access control,2,2,1.0
+Qwen2.5,T0016,it_technician,calque,ru,контроль доступа,6,2,3.0
+Qwen2.5,T0016,it_technician,calque,kk,қолжеткізуді бақылау,13,2,6.5
+Qwen2.5,T0017,it_technician,calque,en,authentication,1,1,1.0
+Qwen2.5,T0017,it_technician,calque,ru,аутентификация,5,1,5.0
+Qwen2.5,T0017,it_technician,calque,kk,түпнұсқалықты растау,15,2,7.5
+Qwen2.5,T0018,it_technician,calque,en,malware,2,1,2.0
+Qwen2.5,T0018,it_technician,calque,ru,вредоносное ПО,7,2,3.5
+Qwen2.5,T0018,it_technician,calque,kk,зиянды бағдарламалық жасақтама,19,3,6.333333333333333
+Qwen2.5,T0019,it_technician,borrowing,en,server,1,1,1.0
+Qwen2.5,T0019,it_technician,borrowing,ru,сервер,2,1,2.0
+Qwen2.5,T0019,it_technician,borrowing,kk,сервер,2,1,2.0
+Qwen2.5,T0020,it_technician,borrowing,en,router,1,1,1.0
+Qwen2.5,T0020,it_technician,borrowing,ru,маршрутизатор,6,1,6.0
+Qwen2.5,T0020,it_technician,borrowing,kk,маршрутизатор,6,1,6.0
+Qwen2.5,T0021,it_technician,hybrid,en,network switch,2,2,1.0
+Qwen2.5,T0021,it_technician,hybrid,ru,сетевой коммутатор,6,2,3.0
+Qwen2.5,T0021,it_technician,hybrid,kk,желілік коммутатор,10,2,5.0
+Qwen2.5,T0022,it_technician,calque,en,motherboard,2,1,2.0
+Qwen2.5,T0022,it_technician,calque,ru,материнская плата,6,2,3.0
+Qwen2.5,T0022,it_technician,calque,kk,жүйелік тақша,10,2,5.0
+Qwen2.5,T0023,it_technician,borrowing,en,processor,1,1,1.0
+Qwen2.5,T0023,it_technician,borrowing,ru,процессор,4,1,4.0
+Qwen2.5,T0023,it_technician,borrowing,kk,процессор,4,1,4.0
+Qwen2.5,T0024,it_technician,calque,en,random access memory,3,3,1.0
+Qwen2.5,T0024,it_technician,calque,ru,оперативная память,7,2,3.5
+Qwen2.5,T0024,it_technician,calque,kk,жедел жад,5,2,2.5
+Qwen2.5,T0025,it_technician,calque,en,solid-state drive,3,2,1.5
+Qwen2.5,T0025,it_technician,calque,ru,твердотельный накопитель,8,2,4.0
+Qwen2.5,T0025,it_technician,calque,kk,қатты денелі жинақтағыш,12,3,4.0
+Qwen2.5,T0026,it_technician,calque,en,power supply unit,3,3,1.0
+Qwen2.5,T0026,it_technician,calque,ru,блок питания,2,2,1.0
+Qwen2.5,T0026,it_technician,calque,kk,қуат блогы,6,2,3.0
+Qwen2.5,T0027,it_technician,hybrid,en,IP address,2,2,1.0
+Qwen2.5,T0027,it_technician,hybrid,ru,IP-адрес,4,1,4.0
+Qwen2.5,T0027,it_technician,hybrid,kk,IP мекенжайы,7,2,3.5
+Qwen2.5,T0028,it_technician,calque,en,local area network,3,3,1.0
+Qwen2.5,T0028,it_technician,calque,ru,локальная сеть,4,2,2.0
+Qwen2.5,T0028,it_technician,calque,kk,жергілікті желі,10,2,5.0
+Qwen2.5,T0029,it_technician,calque,en,bandwidth,2,1,2.0
+Qwen2.5,T0029,it_technician,calque,ru,пропускная способность,7,2,3.5
+Qwen2.5,T0029,it_technician,calque,kk,өткізу қабілеті,11,2,5.5
+Qwen2.5,T0030,it_technician,native,en,latency,2,1,2.0
+Qwen2.5,T0030,it_technician,native,ru,задержка,3,1,3.0
+Qwen2.5,T0030,it_technician,native,kk,кідіріс,7,1,7.0
+Qwen2.5,T0031,it_technician,calque,en,software update,2,2,1.0
+Qwen2.5,T0031,it_technician,calque,ru,обновление ПО,5,2,2.5
+Qwen2.5,T0031,it_technician,calque,kk,бағдарламалық жасақтаманы жаңарту,21,3,7.0
+Qwen2.5,T0032,it_technician,calque,en,troubleshooting,3,1,3.0
+Qwen2.5,T0032,it_technician,calque,ru,поиск и устранение неисправностей,10,4,2.5
+Qwen2.5,T0032,it_technician,calque,kk,ақауларды анықтау және жою,17,4,4.25
+Qwen2.5,T0033,it_technician,calque,en,user permissions,2,2,1.0
+Qwen2.5,T0033,it_technician,calque,ru,права пользователя,3,2,1.5
+Qwen2.5,T0033,it_technician,calque,kk,пайдаланушы құқықтары,14,2,7.0
+Qwen2.5,T0034,it_technician,calque,en,cloud storage,2,2,1.0
+Qwen2.5,T0034,it_technician,calque,ru,облачное хранилище,8,2,4.0
+Qwen2.5,T0034,it_technician,calque,kk,бұлттық қойма,10,2,5.0
+Qwen2.5,T0035,electrician,hybrid,en,electrical safety,3,2,1.5
+Qwen2.5,T0035,electrician,hybrid,ru,электробезопасность,7,1,7.0
+Qwen2.5,T0035,electrician,hybrid,kk,электр қауіпсіздігі,15,2,7.5
+Qwen2.5,T0036,electrician,calque,en,personal protective equipment,3,3,1.0
+Qwen2.5,T0036,electrician,calque,ru,средства индивидуальной защиты,10,3,3.3333333333333335
+Qwen2.5,T0036,electrician,calque,kk,жеке қорғаныс құралдары,17,3,5.666666666666667
+Qwen2.5,T0037,electrician,calque,en,protective grounding,3,2,1.5
+Qwen2.5,T0037,electrician,calque,ru,защитное заземление,6,2,3.0
+Qwen2.5,T0037,electrician,calque,kk,қорғаныс жерлендіру,12,2,6.0
+Qwen2.5,T0038,electrician,hybrid,en,electric shock,2,2,1.0
+Qwen2.5,T0038,electrician,hybrid,ru,поражение электрическим током,12,3,4.0
+Qwen2.5,T0038,electrician,hybrid,kk,электр тоғымен зақымдану,12,3,4.0
+Qwen2.5,T0039,electrician,calque,en,lockout and tagout,5,3,1.6666666666666667
+Qwen2.5,T0039,electrician,calque,ru,блокировка и маркировка,7,3,2.3333333333333335
+Qwen2.5,T0039,electrician,calque,kk,бұғаттау және таңбалау,15,3,5.0
+Qwen2.5,T0040,electrician,calque,en,de-energization,5,1,5.0
+Qwen2.5,T0040,electrician,calque,ru,снятие напряжения,6,2,3.0
+Qwen2.5,T0040,electrician,calque,kk,кернеуді ажырату,9,2,4.5
+Qwen2.5,T0041,electrician,calque,en,insulation resistance,3,2,1.5
+Qwen2.5,T0041,electrician,calque,ru,сопротивление изоляции,9,2,4.5
+Qwen2.5,T0041,electrician,calque,kk,оқшаулау кедергісі,12,2,6.0
+Qwen2.5,T0042,electrician,calque,en,short circuit,2,2,1.0
+Qwen2.5,T0042,electrician,calque,ru,короткое замыкание,8,2,4.0
+Qwen2.5,T0042,electrician,calque,kk,қысқа тұйықталу,12,2,6.0
+Qwen2.5,T0043,electrician,calque,en,overload,2,1,2.0
+Qwen2.5,T0043,electrician,calque,ru,перегрузка,4,1,4.0
+Qwen2.5,T0043,electrician,calque,kk,артық жүктемесі,9,2,4.5
+Qwen2.5,T0044,electrician,hybrid,en,electric current,2,2,1.0
+Qwen2.5,T0044,electrician,hybrid,ru,электрический ток,8,2,4.0
+Qwen2.5,T0044,electrician,hybrid,kk,электр тоқ,5,2,2.5
+Qwen2.5,T0045,electrician,native,en,voltage,2,1,2.0
+Qwen2.5,T0045,electrician,native,ru,напряжение,4,1,4.0
+Qwen2.5,T0045,electrician,native,kk,кернеу,3,1,3.0
+Qwen2.5,T0046,electrician,native,en,resistance,2,1,2.0
+Qwen2.5,T0046,electrician,native,ru,сопротивление,6,1,6.0
+Qwen2.5,T0046,electrician,native,kk,кедергі,4,1,4.0
+Qwen2.5,T0047,electrician,native,en,power,1,1,1.0
+Qwen2.5,T0047,electrician,native,ru,мощность,3,1,3.0
+Qwen2.5,T0047,electrician,native,kk,қуат,3,1,3.0
+Qwen2.5,T0048,electrician,hybrid,en,alternating current,3,2,1.5
+Qwen2.5,T0048,electrician,hybrid,ru,переменный ток,5,2,2.5
+Qwen2.5,T0048,electrician,hybrid,kk,айнымалы ток,6,2,3.0
+Qwen2.5,T0049,electrician,hybrid,en,direct current,2,2,1.0
+Qwen2.5,T0049,electrician,hybrid,ru,постоянный ток,5,2,2.5
+Qwen2.5,T0049,electrician,hybrid,kk,тұрақты ток,7,2,3.5
+Qwen2.5,T0050,electrician,hybrid,en,three-phase system,3,2,1.5
+Qwen2.5,T0050,electrician,hybrid,ru,трёхфазная система,7,2,3.5
+Qwen2.5,T0050,electrician,hybrid,kk,үш фазалы жүйе,10,3,3.3333333333333335
+Qwen2.5,T0051,electrician,hybrid,en,circuit breaker,3,2,1.5
+Qwen2.5,T0051,electrician,hybrid,ru,автоматический выключатель,7,2,3.5
+Qwen2.5,T0051,electrician,hybrid,kk,автоматтық ажыратқыш,11,2,5.5
+Qwen2.5,T0052,electrician,calque,en,residual current device,4,3,1.3333333333333333
+Qwen2.5,T0052,electrician,calque,ru,устройство защитного отключения,6,3,2.0
+Qwen2.5,T0052,electrician,calque,kk,қорғаныстық ажырату құрылғысы,20,3,6.666666666666667
+Qwen2.5,T0053,electrician,native,en,fuse,1,1,1.0
+Qwen2.5,T0053,electrician,native,ru,предохранитель,4,1,4.0
+Qwen2.5,T0053,electrician,native,kk,сақтандырғыш,8,1,8.0
+Qwen2.5,T0054,electrician,borrowing,en,transformer,2,1,2.0
+Qwen2.5,T0054,electrician,borrowing,ru,трансформатор,5,1,5.0
+Qwen2.5,T0054,electrician,borrowing,kk,трансформатор,5,1,5.0
+Qwen2.5,T0055,electrician,hybrid,en,electric motor,2,2,1.0
+Qwen2.5,T0055,electrician,hybrid,ru,электродвигатель,6,1,6.0
+Qwen2.5,T0055,electrician,hybrid,kk,электр қозғалтқышы,12,2,6.0
+Qwen2.5,T0056,electrician,borrowing,en,generator,1,1,1.0
+Qwen2.5,T0056,electrician,borrowing,ru,генератор,3,1,3.0
+Qwen2.5,T0056,electrician,borrowing,kk,генератор,3,1,3.0
+Qwen2.5,T0057,electrician,borrowing,en,contactor,2,1,2.0
+Qwen2.5,T0057,electrician,borrowing,ru,контактор,4,1,4.0
+Qwen2.5,T0057,electrician,borrowing,kk,контактор,4,1,4.0
+Qwen2.5,T0058,electrician,borrowing,en,relay,1,1,1.0
+Qwen2.5,T0058,electrician,borrowing,ru,реле,2,1,2.0
+Qwen2.5,T0058,electrician,borrowing,kk,реле,2,1,2.0
+Qwen2.5,T0059,electrician,hybrid,en,terminal block,2,2,1.0
+Qwen2.5,T0059,electrician,hybrid,ru,клеммная колодка,7,2,3.5
+Qwen2.5,T0059,electrician,hybrid,kk,клеммалық жалғау қысқыштарының блогі,24,4,6.0
+Qwen2.5,T0060,electrician,borrowing,en,multimeter,2,1,2.0
+Qwen2.5,T0060,electrician,borrowing,ru,мультиметр,5,1,5.0
+Qwen2.5,T0060,electrician,borrowing,kk,мультиметр,5,1,5.0
+Qwen2.5,T0061,electrician,calque,en,voltage tester,3,2,1.5
+Qwen2.5,T0061,electrician,calque,ru,указатель напряжения,7,2,3.5
+Qwen2.5,T0061,electrician,calque,kk,кернеу көрсеткіші,11,2,5.5
+Qwen2.5,T0062,electrician,native,en,conductor,2,1,2.0
+Qwen2.5,T0062,electrician,native,ru,проводник,2,1,2.0
+Qwen2.5,T0062,electrician,native,kk,өткізгіш,8,1,8.0
+Qwen2.5,T0063,electrician,native,en,insulator,2,1,2.0
+Qwen2.5,T0063,electrician,native,ru,изолятор,3,1,3.0
+Qwen2.5,T0063,electrician,native,kk,оқшаулағыш,7,1,7.0
+Qwen2.5,T0064,electrician,borrowing,en,cable,2,1,2.0
+Qwen2.5,T0064,electrician,borrowing,ru,кабель,3,1,3.0
+Qwen2.5,T0064,electrician,borrowing,kk,кабель,3,1,3.0
+Qwen2.5,T0065,electrician,hybrid,en,wiring installation,3,2,1.5
+Qwen2.5,T0065,electrician,hybrid,ru,монтаж электропроводки,7,2,3.5
+Qwen2.5,T0065,electrician,hybrid,kk,электр сымдарын монтаждау,13,3,4.333333333333333
+Qwen2.5,T0066,electrician,calque,en,continuity test,3,2,1.5
+Qwen2.5,T0066,electrician,calque,ru,проверка целостности цепи,9,3,3.0
+Qwen2.5,T0066,electrician,calque,kk,тізбектің бүтіндігін тексеру,19,3,6.333333333333333
+Qwen2.5,T0067,electrician,hybrid,en,preventive maintenance,3,2,1.5
+Qwen2.5,T0067,electrician,hybrid,ru,профилактическое обслуживание,11,2,5.5
+Qwen2.5,T0067,electrician,hybrid,kk,профилактикалық қызмет көрсету,17,3,5.666666666666667
+Qwen2.5,T0068,cook,calque,en,food safety,2,2,1.0
+Qwen2.5,T0068,cook,calque,ru,безопасность пищевых продуктов,9,3,3.0
+Qwen2.5,T0068,cook,calque,kk,азық-түлік қауіпсіздігі,21,2,10.5
+Qwen2.5,T0069,cook,hybrid,en,personal hygiene,2,2,1.0
+Qwen2.5,T0069,cook,hybrid,ru,личная гигиена,6,2,3.0
+Qwen2.5,T0069,cook,hybrid,kk,жеке гигиена,7,2,3.5
+Qwen2.5,T0070,cook,calque,en,cross-contamination,3,1,3.0
+Qwen2.5,T0070,cook,calque,ru,перекрёстное загрязнение,11,2,5.5
+Qwen2.5,T0070,cook,calque,kk,тоғыспалы ластану,10,2,5.0
+Qwen2.5,T0071,cook,calque,en,food poisoning,2,2,1.0
+Qwen2.5,T0071,cook,calque,ru,пищевое отравление,7,2,3.5
+Qwen2.5,T0071,cook,calque,kk,тағамнан улану,8,2,4.0
+Qwen2.5,T0072,cook,hybrid,en,temperature control,2,2,1.0
+Qwen2.5,T0072,cook,hybrid,ru,контроль температуры,9,2,4.5
+Qwen2.5,T0072,cook,hybrid,kk,температураны бақылау,10,2,5.0
+Qwen2.5,T0073,cook,calque,en,expiration date,2,2,1.0
+Qwen2.5,T0073,cook,calque,ru,срок годности,4,2,2.0
+Qwen2.5,T0073,cook,calque,kk,жарамдылық мерзімі,10,2,5.0
+Qwen2.5,T0074,cook,borrowing,en,allergen,3,1,3.0
+Qwen2.5,T0074,cook,borrowing,ru,аллерген,3,1,3.0
+Qwen2.5,T0074,cook,borrowing,kk,аллерген,3,1,3.0
+Qwen2.5,T0075,cook,hybrid,en,sanitization,3,1,3.0
+Qwen2.5,T0075,cook,hybrid,ru,санитарная обработка,6,2,3.0
+Qwen2.5,T0075,cook,hybrid,kk,санитариялық өңдеу,11,2,5.5
+Qwen2.5,T0076,cook,calque,en,disinfection,3,1,3.0
+Qwen2.5,T0076,cook,calque,ru,дезинфекция,4,1,4.0
+Qwen2.5,T0076,cook,calque,kk,залалсыздандыру,7,1,7.0
+Qwen2.5,T0077,cook,calque,en,hazard analysis and critical control points,7,6,1.1666666666666667
+Qwen2.5,T0077,cook,calque,ru,анализ опасных факторов и критические точки контроля,13,7,1.8571428571428572
+Qwen2.5,T0077,cook,calque,kk,қауіпті факторларды және бақылаудың сындарлы нүктелерін талдау,34,7,4.857142857142857
+Qwen2.5,T0078,cook,hybrid,en,mise en place,3,3,1.0
+Qwen2.5,T0078,cook,hybrid,ru,подготовка рабочего места и ингредиентов,15,5,3.0
+Qwen2.5,T0078,cook,hybrid,kk,жұмыс орнын және ингредиенттерді алдын ала дайындау,30,7,4.285714285714286
+Qwen2.5,T0079,cook,native,en,blanching,3,1,3.0
+Qwen2.5,T0079,cook,native,ru,бланширование,5,1,5.0
+Qwen2.5,T0079,cook,native,kk,шарпылау,5,1,5.0
+Qwen2.5,T0080,cook,native,en,boiling,2,1,2.0
+Qwen2.5,T0080,cook,native,ru,варка,2,1,2.0
+Qwen2.5,T0080,cook,native,kk,қайнату,4,1,4.0
+Qwen2.5,T0081,cook,calque,en,steaming,2,1,2.0
+Qwen2.5,T0081,cook,calque,ru,приготовление на пару,6,3,2.0
+Qwen2.5,T0081,cook,calque,kk,буға пісіру,8,2,4.0
+Qwen2.5,T0082,cook,native,en,frying,2,1,2.0
+Qwen2.5,T0082,cook,native,ru,жарка,3,1,3.0
+Qwen2.5,T0082,cook,native,kk,қуыру,4,1,4.0
+Qwen2.5,T0083,cook,native,en,baking,2,1,2.0
+Qwen2.5,T0083,cook,native,ru,выпекание,4,1,4.0
+Qwen2.5,T0083,cook,native,kk,пісірме,6,1,6.0
+Qwen2.5,T0084,cook,native,en,stewing,2,1,2.0
+Qwen2.5,T0084,cook,native,ru,тушение,2,1,2.0
+Qwen2.5,T0084,cook,native,kk,бұқтыру,5,1,5.0
+Qwen2.5,T0085,cook,hybrid,en,marinating,2,1,2.0
+Qwen2.5,T0085,cook,hybrid,ru,маринование,3,1,3.0
+Qwen2.5,T0085,cook,hybrid,kk,маринадтау,5,1,5.0
+Qwen2.5,T0086,cook,hybrid,en,fermentation,2,1,2.0
+Qwen2.5,T0086,cook,hybrid,ru,ферментация,3,1,3.0
+Qwen2.5,T0086,cook,hybrid,kk,ферменттеу,4,1,4.0
+Qwen2.5,T0087,cook,hybrid,en,pasteurization,3,1,3.0
+Qwen2.5,T0087,cook,hybrid,ru,пастеризация,4,1,4.0
+Qwen2.5,T0087,cook,hybrid,kk,пастерлеу,5,1,5.0
+Qwen2.5,T0088,cook,native,en,cooling,2,1,2.0
+Qwen2.5,T0088,cook,native,ru,охлаждение,5,1,5.0
+Qwen2.5,T0088,cook,native,kk,салқындату,6,1,6.0
+Qwen2.5,T0089,cook,native,en,thawing,3,1,3.0
+Qwen2.5,T0089,cook,native,ru,размораживание,4,1,4.0
+Qwen2.5,T0089,cook,native,kk,жібіту,5,1,5.0
+Qwen2.5,T0090,cook,hybrid,en,portioning,2,1,2.0
+Qwen2.5,T0090,cook,hybrid,ru,порционирование,3,1,3.0
+Qwen2.5,T0090,cook,hybrid,kk,порциялау,4,1,4.0
+Qwen2.5,T0091,cook,calque,en,plating,2,1,2.0
+Qwen2.5,T0091,cook,calque,ru,оформление и подача блюда,10,4,2.5
+Qwen2.5,T0091,cook,calque,kk,тағамды безендіру және ұсыну,15,4,3.75
+Qwen2.5,T0092,cook,calque,en,cutting board,3,2,1.5
+Qwen2.5,T0092,cook,calque,ru,разделочная доска,7,2,3.5
+Qwen2.5,T0092,cook,calque,kk,бөлшектеу тақтайы,12,2,6.0
+Qwen2.5,T0093,cook,calque,en,chef's knife,3,2,1.5
+Qwen2.5,T0093,cook,calque,ru,поварской нож,5,2,2.5
+Qwen2.5,T0093,cook,calque,kk,аспаз пышағы,8,2,4.0
+Qwen2.5,T0094,cook,hybrid,en,food thermometer,2,2,1.0
+Qwen2.5,T0094,cook,hybrid,ru,пищевой термометр,8,2,4.0
+Qwen2.5,T0094,cook,hybrid,kk,тағам термометрі,9,2,4.5
+Qwen2.5,T0095,cook,native,en,refrigerator,3,1,3.0
+Qwen2.5,T0095,cook,native,ru,холодильник,4,1,4.0
+Qwen2.5,T0095,cook,native,kk,тоңазытқыш,7,1,7.0
+Qwen2.5,T0096,cook,hybrid,en,convection oven,3,2,1.5
+Qwen2.5,T0096,cook,hybrid,ru,конвекционная печь,7,2,3.5
+Qwen2.5,T0096,cook,hybrid,kk,конвекциялық пеш,8,2,4.0
+Qwen2.5,T0097,cook,hybrid,en,raw ingredient,2,2,1.0
+Qwen2.5,T0097,cook,hybrid,ru,сырой ингредиент,8,2,4.0
+Qwen2.5,T0097,cook,hybrid,kk,шикі ингредиент,8,2,4.0
+Qwen2.5,T0098,cook,calque,en,perishable food,4,2,2.0
+Qwen2.5,T0098,cook,calque,ru,скоропортящийся продукт,8,2,4.0
+Qwen2.5,T0098,cook,calque,kk,тез бұзылғыш азық-түлік,17,3,5.666666666666667
+Qwen2.5,T0099,cook,borrowing,en,recipe,1,1,1.0
+Qwen2.5,T0099,cook,borrowing,ru,рецепт,3,1,3.0
+Qwen2.5,T0099,cook,borrowing,kk,рецепт,3,1,3.0
+Qwen2.5,T0100,cook,calque,en,yield,1,1,1.0
+Qwen2.5,T0100,cook,calque,ru,выход готового блюда,7,3,2.3333333333333335
+Qwen2.5,T0100,cook,calque,kk,тағам шығымы,8,2,4.0

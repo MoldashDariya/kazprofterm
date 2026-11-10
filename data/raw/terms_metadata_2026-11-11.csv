@@ -1,0 +1,101 @@
+id,specialty,category,en,pos,term_type,in_skillbridge
+T0001,it_technician,concept,operating system,noun phrase,calque,yes
+T0002,it_technician,concept,database,noun phrase,calque,yes
+T0003,it_technician,concept,algorithm,noun,borrowing,yes
+T0004,it_technician,concept,programming language,noun phrase,calque,yes
+T0005,it_technician,concept,source code,noun phrase,calque,yes
+T0006,it_technician,concept,variable,noun,native,no
+T0007,it_technician,concept,function,noun,borrowing,no
+T0008,it_technician,concept,data structure,noun phrase,calque,no
+T0009,it_technician,concept,application programming interface,noun phrase,hybrid,yes
+T0010,it_technician,concept,version control,noun phrase,calque,yes
+T0011,it_technician,process,debugging,noun phrase,calque,yes
+T0012,it_technician,process,testing,noun,borrowing,yes
+T0013,it_technician,process,deployment,noun phrase,calque,yes
+T0014,it_technician,process,backup,noun phrase,hybrid,yes
+T0015,it_technician,process,data encryption,noun phrase,hybrid,yes
+T0016,it_technician,safety,access control,noun phrase,calque,yes
+T0017,it_technician,safety,authentication,noun,borrowing,yes
+T0018,it_technician,safety,malware,noun phrase,calque,yes
+T0019,it_technician,equipment,server,noun,borrowing,yes
+T0020,it_technician,equipment,router,noun,borrowing,yes
+T0021,it_technician,equipment,network switch,noun phrase,hybrid,no
+T0022,it_technician,equipment,motherboard,noun phrase,calque,no
+T0023,it_technician,equipment,processor,noun,borrowing,no
+T0024,it_technician,equipment,random access memory,noun phrase,calque,yes
+T0025,it_technician,equipment,solid-state drive,noun phrase,calque,no
+T0026,it_technician,equipment,power supply unit,noun phrase,calque,no
+T0027,it_technician,concept,IP address,noun phrase,hybrid,yes
+T0028,it_technician,concept,local area network,noun phrase,calque,yes
+T0029,it_technician,concept,bandwidth,noun phrase,calque,no
+T0030,it_technician,concept,latency,noun,native,no
+T0031,it_technician,process,software update,noun phrase,calque,yes
+T0032,it_technician,process,troubleshooting,noun phrase,calque,yes
+T0033,it_technician,concept,user permissions,noun phrase,calque,no
+T0034,it_technician,concept,cloud storage,noun phrase,calque,no
+T0035,electrician,safety,electrical safety,noun phrase,hybrid,yes
+T0036,electrician,safety,personal protective equipment,noun phrase,calque,yes
+T0037,electrician,safety,protective grounding,noun phrase,calque,yes
+T0038,electrician,safety,electric shock,noun phrase,hybrid,yes
+T0039,electrician,safety,lockout and tagout,noun phrase,calque,yes
+T0040,electrician,safety,de-energization,noun phrase,calque,yes
+T0041,electrician,safety,insulation resistance,noun phrase,calque,yes
+T0042,electrician,safety,short circuit,noun phrase,calque,yes
+T0043,electrician,safety,overload,noun,calque,yes
+T0044,electrician,concept,electric current,noun phrase,hybrid,yes
+T0045,electrician,concept,voltage,noun,native,yes
+T0046,electrician,concept,resistance,noun,native,yes
+T0047,electrician,concept,power,noun,native,yes
+T0048,electrician,concept,alternating current,noun phrase,hybrid,yes
+T0049,electrician,concept,direct current,noun phrase,hybrid,yes
+T0050,electrician,concept,three-phase system,noun phrase,hybrid,no
+T0051,electrician,equipment,circuit breaker,noun phrase,hybrid,yes
+T0052,electrician,equipment,residual current device,noun phrase,calque,yes
+T0053,electrician,equipment,fuse,noun,native,yes
+T0054,electrician,equipment,transformer,noun,borrowing,yes
+T0055,electrician,equipment,electric motor,noun phrase,hybrid,yes
+T0056,electrician,equipment,generator,noun,borrowing,yes
+T0057,electrician,equipment,contactor,noun,borrowing,yes
+T0058,electrician,equipment,relay,noun,borrowing,yes
+T0059,electrician,equipment,terminal block,noun phrase,hybrid,no
+T0060,electrician,equipment,multimeter,noun,borrowing,yes
+T0061,electrician,equipment,voltage tester,noun phrase,calque,yes
+T0062,electrician,material,conductor,noun,native,yes
+T0063,electrician,material,insulator,noun,native,yes
+T0064,electrician,material,cable,noun,borrowing,no
+T0065,electrician,process,wiring installation,noun phrase,hybrid,yes
+T0066,electrician,process,continuity test,noun phrase,calque,yes
+T0067,electrician,process,preventive maintenance,noun phrase,hybrid,yes
+T0068,cook,safety,food safety,noun phrase,calque,yes
+T0069,cook,safety,personal hygiene,noun phrase,hybrid,yes
+T0070,cook,safety,cross-contamination,noun phrase,calque,yes
+T0071,cook,safety,food poisoning,noun phrase,calque,yes
+T0072,cook,safety,temperature control,noun phrase,hybrid,yes
+T0073,cook,safety,expiration date,noun phrase,calque,yes
+T0074,cook,safety,allergen,noun,borrowing,yes
+T0075,cook,safety,sanitization,noun phrase,hybrid,yes
+T0076,cook,safety,disinfection,noun,borrowing,yes
+T0077,cook,safety,hazard analysis and critical control points,noun phrase,calque,yes
+T0078,cook,process,mise en place,noun phrase,hybrid,yes
+T0079,cook,process,blanching,noun,native,yes
+T0080,cook,process,boiling,noun,native,yes
+T0081,cook,process,steaming,noun phrase,calque,yes
+T0082,cook,process,frying,noun,native,yes
+T0083,cook,process,baking,noun,native,yes
+T0084,cook,process,stewing,noun,native,yes
+T0085,cook,process,marinating,noun,hybrid,yes
+T0086,cook,process,fermentation,noun,native,no
+T0087,cook,process,pasteurization,noun,borrowing,no
+T0088,cook,process,cooling,noun,native,yes
+T0089,cook,process,thawing,noun,native,yes
+T0090,cook,process,portioning,noun,native,yes
+T0091,cook,process,plating,noun phrase,calque,yes
+T0092,cook,equipment,cutting board,noun phrase,calque,yes
+T0093,cook,equipment,chef's knife,noun phrase,calque,yes
+T0094,cook,equipment,food thermometer,noun phrase,hybrid,yes
+T0095,cook,equipment,refrigerator,noun,native,yes
+T0096,cook,equipment,convection oven,noun phrase,hybrid,no
+T0097,cook,material,raw ingredient,noun phrase,hybrid,yes
+T0098,cook,material,perishable food,noun phrase,calque,yes
+T0099,cook,concept,recipe,noun,borrowing,yes
+T0100,cook,concept,yield,noun phrase,calque,yes
