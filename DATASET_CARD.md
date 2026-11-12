@@ -77,7 +77,8 @@ written by the authors.
 ## Limitations
 
 - Only three specialties; small size (100 terms in v0.1).
-- Some terms are `draft` (no source found) — **exclude them from evaluation**.
+- In v0.1 no term is `draft`; if later versions add `draft` terms (no source found), exclude them
+  from evaluation.
 - One main annotator in v0.1; inter-annotator agreement is added in v0.5.
 - Subject-teacher review: one teacher per specialty (IT, electrical, cook). The cook teacher reviewed
   all 33 culinary terms (accepted as is: 22/33 = 67%; acceptable incl. variants: 28/33 = 85%). Where a teacher's form differed from the Termincom form,
