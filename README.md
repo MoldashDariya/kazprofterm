@@ -5,6 +5,24 @@ IT technician, electrician, cook.**
 
 > Status: **v0.1** — 100 terms (≈33 per specialty), no definitions yet.
 
+## Key findings (v0.1)
+
+1. **A fully checked resource.** 100 terms in KK/RU/EN: 75 confirmed by subject teachers (one per
+   specialty), 25 attested in official sources (State Terminology Commission, parallel RU/KK legal
+   acts). No unverified terms; 41 terms have attested Kazakh variants.
+2. **Official norm ≠ classroom usage.** For 25 of the 75 teacher-checked terms (33%), teachers use a
+   different Kazakh term than the officially approved one (cook 11, electrician 8, IT 6), e.g.
+   *бағдарғылауыш* (approved) vs *маршрутизатор* (used) for *router*. The cook teacher accepted our
+   form as is for 67% of culinary terms, and as acceptable for 85%. Scoring students only against
+   official dictionaries would mark correct everyday answers as wrong, so the resource keeps both forms.
+3. **Specialties build terms differently.** IT terms are mostly calques (62%); culinary terms have the
+   most native Kazakh words (21%); electrical terms have the most direct borrowings (18%).
+4. **Models see Kazakh less efficiently.** A Kazakh term takes 1.8–4.4× as many tokens as its English
+   equivalent (NLLB-200 and XLM-R best, Qwen2.5 worst).
+
+_Limitations: one teacher per specialty; inter-annotator agreement (second annotator, Cohen's κ)
+is planned for v0.5; 100 terms is a small sample, so these are observations, not general claims._
+
 ## Why
 
 Our earlier study showed that LLM judges score Kazakh interview answers against **English** reference
