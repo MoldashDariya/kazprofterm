@@ -17,3 +17,6 @@ sheet_no,id,kk_written_by_E02,matches_dictionary,note
 16,T0041,оқшаулау кедергісі,yes,
 17,T0052,қорғастық ажырату құрылғысы,yes,
 18,T0059,клеммалық жалғау қысқыштарының блогі,no -> adopted as main form,
+follow-up,T0065,электр сымдарын монтаждау,yes,"confirmed on follow-up, 2026-11-13"
+follow-up,T0066,тізбектің бүтіндігін тексеру,yes,"confirmed on follow-up, 2026-11-13"
+follow-up,T0067,профилактикалық қызмет көрсету,yes,"confirmed on follow-up, 2026-11-13"

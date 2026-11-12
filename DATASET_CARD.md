@@ -35,7 +35,7 @@ A trilingual **Kazakh / Russian / English** terminology resource for three vocat
 | | v0.1 |
 |---|---|
 | Terms | 100 (IT technician 34, electrician 33, cook 33) |
-| `verified` / `expert_checked` / `draft` | 25 / 71 / 4 |
+| `verified` / `expert_checked` / `draft` | 25 / 74 / 1 |
 | Terms used in SkillBridge interview questions | 82 |
 | Definitions | not yet (planned for v0.5–v1.0) |
 
