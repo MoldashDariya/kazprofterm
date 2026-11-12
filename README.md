@@ -130,7 +130,7 @@ Variants are stored as attested forms of the same entry, not as separate entries
 | | count |
 |---|---|
 | Terms | 100 (IT 34, electrician 33, cook 33) |
-| `verified` / `expert_checked` / `draft` | 25 / 74 / 1 |
+| `verified` / `expert_checked` / `draft` | 25 / 75 / 0 |
 | `term_type`: calque / hybrid / native / borrowing | 43 / 28 / 15 / 14 |
 | In SkillBridge questions | 82 |
 | Open issues | see `data/open_issues.csv` |
