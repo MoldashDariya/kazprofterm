@@ -1,0 +1,13 @@
+# analysis
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+statsmodels>=0.14
+scikit-learn>=1.3
+matplotlib>=3.7
+tabulate>=0.9
+pytest>=7.0
+# judges (only the providers you use are imported)
+anthropic>=0.40
+google-genai>=1.0
+openai>=1.50

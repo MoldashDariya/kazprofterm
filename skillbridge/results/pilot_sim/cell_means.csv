@@ -1,0 +1,13 @@
+judge_model,ref,quality,official,teacher
+sim-effect,R_EN,full,4.464,4.44
+sim-effect,R_EN,partial,2.256,2.08
+sim-effect,R_KK,full,4.448,4.024
+sim-effect,R_KK,partial,2.184,1.728
+sim-effect,R_KK_GLOSS,full,4.512,4.416
+sim-effect,R_KK_GLOSS,partial,2.192,2.04
+sim-null,R_EN,full,4.464,4.544
+sim-null,R_EN,partial,2.256,2.184
+sim-null,R_KK,full,4.448,4.464
+sim-null,R_KK,partial,2.184,2.2
+sim-null,R_KK_GLOSS,full,4.512,4.528
+sim-null,R_KK_GLOSS,partial,2.192,2.176

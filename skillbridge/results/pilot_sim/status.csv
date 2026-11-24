@@ -1,0 +1,13 @@
+judge_model,ref,term_form,ok,total
+sim-effect,R_EN,official,250,250
+sim-effect,R_EN,teacher,250,250
+sim-effect,R_KK,official,250,250
+sim-effect,R_KK,teacher,250,250
+sim-effect,R_KK_GLOSS,official,250,250
+sim-effect,R_KK_GLOSS,teacher,250,250
+sim-null,R_EN,official,250,250
+sim-null,R_EN,teacher,250,250
+sim-null,R_KK,official,250,250
+sim-null,R_KK,teacher,250,250
+sim-null,R_KK_GLOSS,official,250,250
+sim-null,R_KK_GLOSS,teacher,250,250

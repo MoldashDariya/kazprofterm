@@ -1,0 +1,9 @@
+judge,model,term,estimate,se,p
+sim-effect,"ordinal logit (item FE, item-clustered SE)",teacher,-0.4056212030361874,0.23915329331439078,0.08987224668812892
+sim-effect,"ordinal logit (item FE, item-clustered SE)",R_KK:teacher,-1.4587184285203398,0.3654988234276601,6.578569761704872e-05
+sim-effect,"ordinal logit (item FE, item-clustered SE)",R_KK_GLOSS:teacher,-0.11087228161047176,0.2784485552973714,0.6904984713132816
+sim-effect,"ordinal logit (item FE, item-clustered SE)",partial,-9.804713849106605,0.42568867323460996,2.1983643852412367e-117
+sim-null,"ordinal logit (item FE, item-clustered SE)",teacher,0.04872090699565757,0.2518893221837733,0.8466285788905953
+sim-null,"ordinal logit (item FE, item-clustered SE)",R_KK:teacher,0.016124372433598894,0.36015420094112616,0.964290042609075
+sim-null,"ordinal logit (item FE, item-clustered SE)",R_KK_GLOSS:teacher,-0.03814993519289111,0.2913604294545683,0.8958249422101652
+sim-null,"ordinal logit (item FE, item-clustered SE)",partial,-10.1221075529797,0.45175198000845196,3.413837231774142e-111

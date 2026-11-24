@@ -1,0 +1,260 @@
+{
+  "version": "0.1-draft",
+  "status": "DRAFT: Kazakh texts written by an AI assistant; must be checked by a native speaker before freezing",
+  "placeholders": {
+    "{TERM}": "answer term: replaced by the teacher form (terms.csv `kk`) or by the alternative form (`official` below)",
+    "{OFF}": "in Kazakh reference points: always replaced by the alternative (dictionary) form"
+  },
+  "items": [
+    {
+      "item_id": "Q01", "term_id": "T0010", "official": "версияларды басқару",
+      "question_en": "Several people work on the code of one project. How can changes to the code be tracked?",
+      "question_kk": "Командада бір жобаның кодымен бірнеше адам жұмыс істейді. Кодтағы өзгерістерді қалай бақылауға болады?",
+      "ref_en": ["Use version control (e.g. Git)", "Each change is saved as a commit with author and message", "It is possible to return to an earlier state", "Branches allow parallel work and later merging"],
+      "ref_kk": ["{OFF} жүйесін қолдану (мысалы, Git)", "Әр өзгеріс авторы мен сипаттамасы бар коммит ретінде сақталады", "Бұрынғы күйге қайтуға болады", "Тармақтар қатар жұмыс істеуге және кейін біріктіруге мүмкіндік береді"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Бұл үшін {TERM} керек, мысалы Git. Әр өзгеріс коммит болып сақталады, кім және не өзгерткені жазылады. Қате шықса, бұрынғы күйге қайтуға болады. Әркім өз тармағында жұмыс істеп, кейін біріктіреді.",
+      "answer_partial_kk": "Менің ойымша, {TERM} керек. Сонда код бір жерде сақталады."
+    },
+    {
+      "item_id": "Q02", "term_id": "T0011", "official": "оңдау",
+      "question_en": "A program crashes with an error when it is started. What do you do?",
+      "question_kk": "Бағдарлама іске қосылғанда қате беріп, тоқтап қалады. Не істейсіз?",
+      "ref_en": ["Debugging: reproduce the error", "Read the error message and the logs", "Use a debugger or breakpoints to find the cause", "Fix it and test again"],
+      "ref_kk": ["{OFF}: қатені қайта шығару", "Қате туралы хабарламаны және логтарды оқу", "Себебін табу үшін отладчик немесе тоқтау нүктелерін қолдану", "Түзетіп, қайта тексеру"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Мұндай жағдайда {TERM} керек. Алдымен қатені қайталап көремін, содан кейін қате хабарламасы мен логтарды оқимын. Себебін табу үшін отладчикте тоқтау нүктелерін қоямын. Түзеткеннен кейін бағдарламаны қайта тексеремін.",
+      "answer_partial_kk": "Бұл жерде {TERM} керек. Бағдарламаны қайта іске қосып көремін."
+    },
+    {
+      "item_id": "Q03", "term_id": "T0017", "official": "сәйкестендірме",
+      "question_en": "When a user logs in, how can the system check that they really are that person?",
+      "question_kk": "Пайдаланушы жүйеге кіргенде, оның шынымен сол адам екенін қалай тексеруге болады?",
+      "ref_en": ["Authentication verifies the user's identity", "A password or something else the user knows", "A second factor (SMS code, authenticator app): multi-factor authentication", "Passwords are stored hashed"],
+      "ref_kk": ["{OFF} пайдаланушының кім екенін тексереді", "Құпиясөз немесе пайдаланушы білетін басқа нәрсе", "Екінші фактор (SMS-код, қосымша): көпфакторлы тексеру", "Құпиясөздер хэштелген түрде сақталады"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Ол үшін {TERM} қажет. Пайдаланушы логин мен құпиясөз енгізеді. Қауіпсіздік үшін екінші фактор да керек, мысалы телефонға келген SMS-код. Құпиясөздер базада ашық түрде емес, хэш түрінде сақталуы тиіс.",
+      "answer_partial_kk": "Бұл — {TERM}. Пайдаланушы құпиясөз енгізеді."
+    },
+    {
+      "item_id": "Q04", "term_id": "T0020", "official": "бағдарғылауыш",
+      "question_en": "An office local network has to be connected to the internet. Which device is needed and what does it do?",
+      "question_kk": "Кеңсенің жергілікті желісін интернетке қосу керек. Қандай құрылғы қажет және ол не істейді?",
+      "ref_en": ["A router", "It forwards packets between networks (local network and internet)", "It gives local IP addresses (DHCP) and performs NAT", "It may also provide a firewall or Wi-Fi"],
+      "ref_kk": ["{OFF}", "Пакеттерді желілер арасында бағыттайды (жергілікті желі мен интернет)", "Жергілікті IP-мекенжайлар береді (DHCP) және NAT жасайды", "Желіаралық экран немесе Wi-Fi қызметі болуы мүмкін"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Бұл үшін {TERM} керек. Ол жергілікті желі мен интернет арасында пакеттерді бағыттайды. Компьютерлерге DHCP арқылы IP-мекенжай береді және NAT жасайды. Көбінесе онда Wi-Fi және желіаралық экран да бар.",
+      "answer_partial_kk": "Маған {TERM} керек. Ол интернетті таратады."
+    },
+    {
+      "item_id": "Q05", "term_id": "T0025", "official": "қаттыденелі жинауыш",
+      "question_en": "An old computer boots very slowly. Suggest a hardware way to speed it up.",
+      "question_kk": "Ескі компьютер өте баяу жүктеледі. Жылдамдатудың аппараттық тәсілін ұсыныңыз.",
+      "ref_en": ["Install a solid-state drive (SSD) as the new drive", "It has no moving parts and reads/writes much faster", "Move the operating system to the new drive", "Add RAM if there is not enough"],
+      "ref_kk": ["Жаңа диск ретінде {OFF}", "Қозғалатын бөліктері жоқ, оқу/жазу жылдамдығы әлдеқайда жоғары", "Операциялық жүйені жаңа дискіге көшіру", "Жедел жады жеткіліксіз болса, қосу"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Ескі HDD орнына {TERM} қойған дұрыс. Ол әлдеқайда жылдам, себебі онда қозғалатын бөліктер жоқ. Операциялық жүйені жаңа дискіге көшіремін. Қажет болса, жедел жадыны да көбейтемін.",
+      "answer_partial_kk": "Менің ойымша, {TERM} керек."
+    },
+    {
+      "item_id": "Q06", "term_id": "T0033", "official": "пайдаланушының қол жеткізу құқықтары",
+      "question_en": "A new employee must not see the accounting files. How do you set this up?",
+      "question_kk": "Компанияда жаңа қызметкер бухгалтерлік файлдарды көрмеуі керек. Мұны қалай ұйымдастырасыз?",
+      "ref_en": ["Configure user permissions", "Principle of least privilege", "Use groups and roles", "Review access regularly"],
+      "ref_kk": ["{OFF} баптау", "Ең аз артықшылық қағидаты", "Топтар мен рөлдерді қолдану", "Қолжетімділікті тұрақты тексеру"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Мұнда {TERM} дұрыс бапталуы керек. Әр қызметкерге тек жұмысына қажет нәрсе ғана ашылады, бұл ең аз артықшылық қағидаты. Ыңғайлы болу үшін топтар мен рөлдер жасаймын, бухгалтерия папкасы тек бухгалтерлер тобына ашық. Уақыт өте келе кімнің не көре алатынын тексеріп отырамын.",
+      "answer_partial_kk": "Бұл жерде {TERM} маңызды. Файлға құпиясөз қоямын."
+    },
+    {
+      "item_id": "Q07", "term_id": "T0036", "official": "жеке қорғану құралдары",
+      "question_en": "How do you protect yourself before starting work on an electrical panel?",
+      "question_kk": "Электр қалқанында жұмыс бастамас бұрын өзіңізді қалай қорғайсыз?",
+      "ref_en": ["Use personal protective equipment: dielectric gloves, insulated tools", "Switch off the supply and lock it out", "Check with a tester that there is no voltage", "Dielectric mat or boots"],
+      "ref_kk": ["{OFF}: диэлектрлік қолғаптар, оқшауланған құралдар", "Қоректендіруді ажыратып, құлыптау", "Кернеудің жоқтығын көрсеткішпен тексеру", "Диэлектрлік кілемше немесе бәтеңке"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Алдымен {TERM} керек: диэлектрлік қолғап, оқшауланған сапты құралдар. Содан кейін қалқанды ажыратып, ешкім қоспауы үшін құлып пен ескерту тақтайшасын іліп қоямын. Көрсеткішпен кернеудің жоқ екенін тексеремін. Еденге диэлектрлік кілемше төсеймін.",
+      "answer_partial_kk": "Маған {TERM} керек, мысалы қолғап."
+    },
+    {
+      "item_id": "Q08", "term_id": "T0037", "official": "қорғаныстық жерге тұйықтау",
+      "question_en": "Why must the metal casing of a washing machine be connected to earth?",
+      "question_kk": "Кір жуғыш машинаның металл корпусы неліктен жерге қосылуы керек?",
+      "ref_en": ["Protective grounding", "If the insulation fails, the casing can become live", "The fault current flows to earth, not through a person", "The breaker or RCD then trips"],
+      "ref_kk": ["{OFF}", "Оқшаулау бұзылса, корпус кернеуде қалуы мүмкін", "Ақау тогы адам арқылы емес, жерге кетеді", "Сонда автомат немесе ҚАҚ (УЗО) ажыратады"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Бұл — {TERM}. Егер оқшаулау бұзылса, металл корпусқа кернеу түсуі мүмкін. Сонда ток адам арқылы емес, жерге кетеді. Осы кезде автомат немесе УЗО іске қосылып, желіні ажыратады.",
+      "answer_partial_kk": "Себебі {TERM} қауіпсіздік үшін керек."
+    },
+    {
+      "item_id": "Q09", "term_id": "T0038", "official": "электр тогы соғуы",
+      "question_en": "A colleague has grabbed a live wire and cannot move. What do you do?",
+      "question_kk": "Әріптесіңіз ашық сымды ұстап алып, қозғала алмай тұр. Не істейсіз?",
+      "ref_en": ["Recognise an electric shock; do not touch the person with bare hands", "Switch off the power immediately", "If that is impossible, separate them with a dry non-conducting object", "Call an ambulance and give first aid"],
+      "ref_kk": ["{OFF} жағдайында адамға жалаң қолмен тиіспеу", "Тез арада қоректендіруді ажырату", "Мүмкін болмаса, құрғақ, ток өткізбейтін затпен ажырату", "Жедел жәрдем шақырып, алғашқы көмек көрсету"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Бұл — {TERM}. Адамға жалаң қолмен тиіспеймін, әйтпесе мені де ток соғады. Бірден автоматты ажыратамын. Егер мүмкін болмаса, құрғақ ағаш таяқпен сымды итеріп жіберемін. Сосын жедел жәрдем шақырып, қажет болса жүрек-өкпе реанимациясын жасаймын.",
+      "answer_partial_kk": "Бұл — {TERM}, сондықтан жедел жәрдем шақырамын."
+    },
+    {
+      "item_id": "Q10", "term_id": "T0040", "official": "кернеуді түсіру",
+      "question_en": "What steps do you take before replacing a socket?",
+      "question_kk": "Розетканы ауыстыру алдында қандай қадамдар жасайсыз?",
+      "ref_en": ["De-energise: switch off the breaker of this line", "Prevent re-energising: lock or warning sign", "Check that there is no voltage", "Only then replace the socket"],
+      "ref_kk": ["{OFF}: осы желінің автоматын өшіру", "Қайта қосылмас үшін құлып немесе ескерту тақтайшасы", "Кернеудің жоқтығын тексеру", "Содан кейін ғана ауыстыру"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Ең бірінші {TERM} керек: қалқандағы осы желінің автоматын өшіремін. Біреу қосып жібермес үшін тақтайша ілемін. Индикатормен кернеудің жоқ екенін тексеремін. Тек содан кейін розетканы ауыстырамын.",
+      "answer_partial_kk": "Алдымен {TERM} керек."
+    },
+    {
+      "item_id": "Q11", "term_id": "T0043", "official": "асқын жүктелу",
+      "question_en": "A kettle, an iron and a heater are plugged into one socket and the cable got hot. What is happening?",
+      "question_kk": "Бір розеткаға шайнек, үтік және жылытқыш қосылған, сымы қызып кетті. Не болып жатыр?",
+      "ref_en": ["Overload: the current exceeds the permitted value", "Heating can damage the insulation and cause a fire", "The breaker should trip", "Spread the devices across different sockets and lines"],
+      "ref_kk": ["{OFF}: ток рұқсат етілген мәннен асады", "Қызу оқшаулауды бүлдіріп, өрт тудыруы мүмкін", "Автомат ажыратуы тиіс", "Құрылғыларды әртүрлі розеткалар мен желілерге бөлу"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Бұл — {TERM}. Ток сым мен розеткаға рұқсат етілген мәннен асып кетті. Сым қызып, оқшаулау еріп, өрт шығуы мүмкін. Дұрыс таңдалған автомат мұндайда ажыратуы керек. Құрылғыларды бірнеше розетка мен желіге бөлу керек.",
+      "answer_partial_kk": "Бұл — {TERM} болуы мүмкін."
+    },
+    {
+      "item_id": "Q12", "term_id": "T0044", "official": "электр тогы",
+      "question_en": "Why does a lamp light up? What happens in the circuit and what affects it?",
+      "question_kk": "Шам неліктен жанады? Тізбекте не болады және оған не әсер етеді?",
+      "ref_en": ["Electric current is the directed movement of charges (electrons)", "A closed circuit and a voltage source are needed", "Ohm's law: I = U/R", "Measured in amperes"],
+      "ref_kk": ["{OFF} — зарядтардың (электрондардың) бағытталған қозғалысы", "Тұйық тізбек пен кернеу көзі қажет", "Ом заңы: I = U/R", "Ампермен өлшенеді"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Шам жануы үшін тізбекте {TERM} болуы керек. Бұл — электрондардың бағытталған қозғалысы. Ол үшін тізбек тұйық болып, кернеу көзі болуы қажет. Ом заңы бойынша оның шамасы кернеуге тура, кедергіге кері пропорционал: I = U/R.",
+      "answer_partial_kk": "Себебі сымда {TERM} бар."
+    },
+    {
+      "item_id": "Q13", "term_id": "T0051", "official": "автоматты ажыратқыш",
+      "question_en": "Which device in the panel protects the line from short circuits and overloads? How does it work?",
+      "question_kk": "Қалқандағы қай құрылғы желіні қысқа тұйықталудан және шамадан тыс жүктемеден қорғайды? Ол қалай жұмыс істейді?",
+      "ref_en": ["Circuit breaker", "Its thermal part trips on a long overload", "Its electromagnetic part trips instantly on a short circuit", "Its rated current is chosen for the cable"],
+      "ref_kk": ["{OFF}", "Жылулық бөлігі ұзақ артық жүктемеде ажыратады", "Электромагниттік бөлігі қысқа тұйықталуда лезде ажыратады", "Номиналды тогы кабельге сай таңдалады"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Бұл — {TERM}. Онда екі бөлік бар. Жылулық бөлігі ток ұзақ уақыт артық болғанда ажыратады. Электромагниттік бөлігі қысқа тұйықталу кезінде лезде ажыратады. Номиналы кабельдің қимасына қарай таңдалады.",
+      "answer_partial_kk": "Ол — {TERM}."
+    },
+    {
+      "item_id": "Q14", "term_id": "T0059", "official": "қысқыштар блогы",
+      "question_en": "Many wires in an electrical cabinet must be connected neatly and reliably. What do you use?",
+      "question_kk": "Электр шкафында көптеген сымды ретті әрі сенімді жалғау керек. Не қолданасыз?",
+      "ref_en": ["A terminal block", "Each wire is clamped in its own terminal with a screw or spring", "The wires are labelled", "It is mounted on a DIN rail"],
+      "ref_kk": ["{OFF}", "Әр сым жеке қысқышқа бұрандамен немесе серіппемен бекітіледі", "Сымдар таңбаланады", "DIN-рейкаға орнатылады"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Бұл үшін {TERM} қолайлы. Әр сым өз қысқышына бұрандамен немесе серіппемен бекітіледі, сондықтан байланыс сенімді. Сымдарды таңбалаймын, кейін іздеу оңай болады. Блок DIN-рейкаға орнатылады.",
+      "answer_partial_kk": "Мен {TERM} қолданамын."
+    },
+    {
+      "item_id": "Q15", "term_id": "T0070", "official": "тоғыспалы ластану",
+      "question_en": "Why must the same knife and board not be used for raw meat and for salad?",
+      "question_kk": "Неліктен шикі ет пен салатқа бір пышақ пен тақтаны қолдануға болмайды?",
+      "ref_en": ["Cross-contamination: bacteria pass from raw food to ready food", "Separate colour-coded boards and knives", "Wash and sanitise between tasks, wash hands", "Store raw food below ready-to-eat food"],
+      "ref_kk": ["{OFF}: бактериялар шикі өнімнен дайын тағамға өтеді", "Түсі бойынша таңбаланған бөлек тақталар мен пышақтар", "Жұмыс арасында жуып, залалсыздандыру, қол жуу", "Шикі өнімді дайын тағамнан төмен сақтау"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Себебі {TERM} болады: шикі еттегі бактериялар салатқа өтеді. Сондықтан әр өнімге түсі бойынша бөлек тақта мен пышақ қолданамын. Жұмыс арасында құралдарды жуып, залалсыздандырамын, қолымды жуамын. Тоңазытқышта шикі етті дайын тағамнан төмен сақтаймын.",
+      "answer_partial_kk": "Өйткені {TERM} болуы мүмкін."
+    },
+    {
+      "item_id": "Q16", "term_id": "T0071", "official": "тағамнан улану",
+      "question_en": "After a canteen meal several people had stomach pain and vomiting. What could be the cause and how can it be prevented?",
+      "question_kk": "Асханадан кейін бірнеше адамның іші ауырып, құсты. Себебі не болуы мүмкін және алдын алу үшін не істеу керек?",
+      "ref_en": ["Food poisoning caused by bacteria or toxins", "Causes: undercooking, wrong storage temperature, poor hygiene", "Prevention: cook to a safe core temperature, keep the cold chain, hygiene", "Keep samples and report"],
+      "ref_kk": ["{OFF}: бактериялар немесе токсиндер", "Себептері: жете пісірмеу, дұрыс емес сақтау температурасы, гигиенаның сақталмауы", "Алдын алу: қауіпсіз ішкі температураға дейін пісіру, суық тізбекті сақтау, гигиена", "Сынама сақтау және хабарлау"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Бұл — {TERM} болуы мүмкін. Оны бактериялар немесе олардың токсиндері тудырады. Ет жете піспеген, өнім дұрыс температурада сақталмаған немесе аспазшылар гигиенаны сақтамаған болуы мүмкін. Алдын алу үшін етті ішкі температурасы 75°C-қа жеткенше пісіремін, суық тізбекті сақтаймын, қолды жиі жуамын.",
+      "answer_partial_kk": "Бұл — {TERM} шығар."
+    },
+    {
+      "item_id": "Q17", "term_id": "T0075", "official": "санитариялық өңдеу",
+      "question_en": "At the end of the working day, how do you clean kitchen tables and equipment?",
+      "question_kk": "Жұмыс күнінің соңында асүй үстелдері мен жабдықтарын қалай тазалайсыз?",
+      "ref_en": ["First cleaning, then sanitation", "Remove food residue with detergent and water", "Apply an approved agent at the right concentration and contact time", "Air dry and record in the log"],
+      "ref_kk": ["Алдымен тазалау, содан кейін {OFF}", "Жуғыш затпен тамақ қалдықтарын кетіру", "Рұқсат етілген құралды дұрыс концентрацияда және уақытта қолдану", "Ауада кептіру, журналға жазу"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Алдымен жуғыш затпен тамақ қалдықтарын жуып тастаймын. Содан кейін {TERM} керек: рұқсат етілген құралды нұсқаулықтағы концентрацияда жағып, қажетті уақыт күтемін. Соңында беттерді ауада кептіріп, журналға жазамын.",
+      "answer_partial_kk": "Үстелді сүртемін, кейін {TERM} жасаймын."
+    },
+    {
+      "item_id": "Q18", "term_id": "T0076", "official": "залалсыздандыру",
+      "question_en": "After cutting chicken, how do you make the board and knife safe again?",
+      "question_kk": "Тауық етін кескеннен кейін тақта мен пышақты қалай қауіпсіз күйге келтіресіз?",
+      "ref_en": ["Wash with hot water and detergent", "Disinfection with an approved agent or high temperature", "Respect the contact time and rinse", "Store dry and separately"],
+      "ref_kk": ["Ыстық су мен жуғыш затпен жуу", "Рұқсат етілген құралмен немесе жоғары температурамен {OFF}", "Әсер ету уақытын сақтап, шаю", "Құрғақ күйде бөлек сақтау"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Алдымен ыстық сумен және жуғыш затпен жуамын. Сосын {TERM} керек: рұқсат етілген ерітіндіні қолданамын немесе ыдыс жуғыш машинада жоғары температурада өңдеймін. Ерітіндінің әсер ету уақытын күтіп, таза сумен шаямын. Кептіріп, бөлек сақтаймын.",
+      "answer_partial_kk": "Жуамын, керек болса {TERM} жасаймын."
+    },
+    {
+      "item_id": "Q19", "term_id": "T0077", "official": "қауіпті факторларды және бақылаудың сындарлы нүктелерін талдау",
+      "question_en": "Name the international system that systematically ensures food safety in production and explain its main steps.",
+      "question_kk": "Тағам өндірісінде қауіпсіздікті жүйелі түрде қамтамасыз ететін халықаралық жүйені атаңыз және оның негізгі қадамдарын түсіндіріңіз.",
+      "ref_en": ["HACCP (hazard analysis and critical control points)", "Identify hazards at every stage", "Set critical control points and their limits (e.g. temperature)", "Monitoring, corrective actions and records"],
+      "ref_kk": ["{OFF}", "Әр кезеңдегі қауіптерді анықтау", "Сыни бақылау нүктелері мен олардың шектерін белгілеу (мысалы, температура)", "Мониторинг, түзету әрекеттері және құжаттама"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Бұл — {TERM}. Алдымен өндірістің әр кезеңіндегі қауіптерді анықтаймын. Содан кейін ең маңызды бақылау нүктелерін және олардың шектерін белгілеймін, мысалы пісіру температурасы. Әр нүктені бақылап, шектен ауытқыса түзету шараларын қолданамын және бәрін журналға жазамын.",
+      "answer_partial_kk": "Бұл жүйе — {TERM}."
+    },
+    {
+      "item_id": "Q20", "term_id": "T0079", "official": "шарпылау",
+      "question_en": "Which treatment is used before freezing vegetables to keep their colour and taste?",
+      "question_kk": "Көкөністерді мұздатар алдында түсі мен дәмін сақтау үшін қандай өңдеу жасалады?",
+      "ref_en": ["Blanching", "Brief immersion in boiling water (1-3 minutes)", "Immediate cooling in ice water", "It stops enzymes and keeps the colour"],
+      "ref_kk": ["{OFF}", "Қайнаған суға қысқа уақытқа (1-3 минут) салу", "Бірден мұзды суда суыту", "Ферменттерді тоқтатып, түсін сақтайды"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Бұл — {TERM}. Көкөністі қайнап жатқан суға 1-3 минутқа саламын. Содан кейін бірден мұзды суға салып суытамын, әйтпесе пісіп кетеді. Бұл ферменттерді тоқтатып, түсі мен дәмін сақтайды.",
+      "answer_partial_kk": "Оларға {TERM} жасаймын."
+    },
+    {
+      "item_id": "Q21", "term_id": "T0083", "official": "пісірме",
+      "question_en": "State the main rules for making bread in an oven.",
+      "question_kk": "Нанды пеште дайындаудың негізгі ережелерін айтыңыз.",
+      "ref_en": ["Baking in a preheated oven", "Correct temperature and time (e.g. 180-220 °C)", "Check doneness (core temperature, sound, colour)", "Cool on a rack"],
+      "ref_kk": ["Алдын ала қыздырылған пеште {OFF}", "Дұрыс температура мен уақыт (мысалы, 180-220 °C)", "Піскенін тексеру (ішкі температура, дыбыс, түсі)", "Торда суыту"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Нанды {TERM} үшін пешті алдын ала 200 °C-қа дейін қыздырамын. Рецепт бойынша температура мен уақытты сақтаймын. Піскенін ішкі температурасымен немесе астын қаққанда шыққан қуыс дыбысымен тексеремін. Дайын нанды торда суытамын.",
+      "answer_partial_kk": "Нанды {TERM} үшін пешке саламын."
+    },
+    {
+      "item_id": "Q22", "term_id": "T0089", "official": "жібіту",
+      "question_en": "What do you do with frozen meat before cooking it, and how?",
+      "question_kk": "Мұздатылған етті пісірер алдында не істейсіз және қалай?",
+      "ref_en": ["Thawing", "In the refrigerator at 0-4 °C, not on the table at room temperature", "Or under cold running water / in the microwave if cooked immediately", "Do not refreeze"],
+      "ref_kk": ["{OFF}", "Тоңазытқышта 0-4 °C-та, бөлме температурасында үстел үстінде емес", "Немесе салқын ағын су астында / бірден пісіретін болса, микротолқынды пеште", "Қайта мұздатпау"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Алдымен {TERM} керек. Мұны тоңазытқышта 0-4 °C-та жасаймын, үстел үстінде бөлме температурасында қалдырмаймын, себебі бактериялар көбейеді. Асығыс болса, салқын ағын су астында немесе бірден пісіретін болсам, микротолқынды пеште жасаймын. Кейін етті қайта мұздатпаймын.",
+      "answer_partial_kk": "Алдымен {TERM} керек, сосын пісіремін."
+    },
+    {
+      "item_id": "Q23", "term_id": "T0092", "official": "бөлшектеу тақтайы",
+      "question_en": "How do you use boards for different products in the kitchen?",
+      "question_kk": "Асүйде түрлі өнімдерге арналған тақталарды қалай пайдаланасыз?",
+      "ref_en": ["Separate colour-coded cutting boards", "E.g. red for raw meat, green for vegetables, blue for fish", "Wash and sanitise after use, replace damaged ones", "Store upright to dry"],
+      "ref_kk": ["Түсі бойынша таңбаланған бөлек {OFF}", "Мысалы: қызыл — шикі ет, жасыл — көкөніс, көк — балық", "Қолданғаннан кейін жуып, залалсыздандыру, бүлінгенін ауыстыру", "Кебу үшін тік сақтау"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Әр өнімге бөлек {TERM} қолданамын, олар түсімен ажыратылады: қызыл — шикі ет, жасыл — көкөніс, көк — балық. Қолданғаннан кейін жуып, залалсыздандырамын, жарылғанын ауыстырамын. Кебуі үшін тік күйде сақтаймын.",
+      "answer_partial_kk": "Маған {TERM} керек, оны жуамын."
+    },
+    {
+      "item_id": "Q24", "term_id": "T0098", "official": "тез бұзылғыш азық-түлік",
+      "question_en": "What do you pay attention to when receiving and storing products such as milk, meat and fish?",
+      "question_kk": "Сүт, ет және балық сияқты өнімдерді қабылдағанда және сақтағанда неге назар аударасыз?",
+      "ref_en": ["These are perishable foods", "Check temperature and expiry dates on delivery", "Store at 0-4 °C (or frozen) and use FIFO", "Label with the date"],
+      "ref_kk": ["Бұлар — {OFF}", "Қабылдағанда температураны және жарамдылық мерзімін тексеру", "0-4 °C-та (немесе мұздатылған күйде) сақтау және FIFO", "Күнімен таңбалау"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Бұлар — {TERM}, сондықтан қабылдағанда көліктегі температураны және жарамдылық мерзімін тексеремін. Тоңазытқышта 0-4 °C-та сақтаймын және бірінші келгенін бірінші қолданамын (FIFO). Әр ыдысқа күнін жазамын.",
+      "answer_partial_kk": "Бұл — {TERM}, тоңазытқышқа саламын."
+    },
+    {
+      "item_id": "Q25", "term_id": "T0100", "official": "тағам шығымы",
+      "question_en": "A recipe card says how much finished mash comes from 10 kg of raw potatoes. What is this figure and why does it matter?",
+      "question_kk": "Технологиялық картада 10 кг шикі картоптан қанша дайын пюре шығатыны жазылған. Бұл көрсеткіш не және не үшін маңызды?",
+      "ref_en": ["Yield of the finished dish", "Net weight after cleaning and cooking losses", "Used to calculate portions and cost", "Given in grams, kilograms or per cent"],
+      "ref_kk": ["{OFF}", "Тазалау мен термиялық өңдеуден кейінгі таза салмақ", "Порция санын және өзіндік құнын есептеу үшін", "Граммен, килограммен немесе пайызбен беріледі"],
+      "essential": [1, 2, 3],
+      "answer_full_kk": "Бұл көрсеткіш — {TERM}. Ол тазалау мен пісіруден кейінгі шығынды есептегендегі таза салмақты көрсетеді. Соның арқасында қанша порция шығатынын және тағамның өзіндік құнын есептейміз. Әдетте граммен немесе пайызбен беріледі.",
+      "answer_partial_kk": "Бұл — {TERM}, яғни қанша тамақ шығады."
+    }
+  ]
+}

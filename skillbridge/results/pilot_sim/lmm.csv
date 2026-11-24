@@ -1,0 +1,15 @@
+judge,model,term,estimate,se,p
+sim-effect,"LMM (cell means, random item intercept)",Intercept,4.512000000000003,0.07785413410699724,0.0
+sim-effect,"LMM (cell means, random item intercept)","C(ref, Treatment('R_EN'))[T.R_KK]",-0.04399999999999972,0.047905321310671475,0.35836849354415967
+sim-effect,"LMM (cell means, random item intercept)","C(ref, Treatment('R_EN'))[T.R_KK_GLOSS]",-0.00799999999999985,0.047905321310671475,0.8673731476115853
+sim-effect,"LMM (cell means, random item intercept)","C(term_form, Treatment('official'))[T.teacher]",-0.10000000000000024,0.047905321310671455,0.03684740647309402
+sim-effect,"LMM (cell means, random item intercept)","C(quality, Treatment('full'))[T.partial]",-2.3040000000000003,0.027658150154331713,0.0
+sim-effect,"LMM (cell means, random item intercept)","C(ref, Treatment('R_EN'))[T.R_KK]:C(term_form, Treatment('official'))[T.teacher]",-0.3399999999999997,0.06774835510739244,5.20569750065887e-07
+sim-effect,"LMM (cell means, random item intercept)","C(ref, Treatment('R_EN'))[T.R_KK_GLOSS]:C(term_form, Treatment('official'))[T.teacher]",-0.023999999999999723,0.06774835510739244,0.7231499292589759
+sim-null,"LMM (cell means, random item intercept)",Intercept,4.507333333333319,0.07947609451467616,0.0
+sim-null,"LMM (cell means, random item intercept)","C(ref, Treatment('R_EN'))[T.R_KK]",-0.04399999999999966,0.047091579176699025,0.3501235666344923
+sim-null,"LMM (cell means, random item intercept)","C(ref, Treatment('R_EN'))[T.R_KK_GLOSS]",-0.007999999999999783,0.04709157917669903,0.8651031318907234
+sim-null,"LMM (cell means, random item intercept)","C(term_form, Treatment('official'))[T.teacher]",0.004000000000000087,0.047091579176699,0.9323083946353475
+sim-null,"LMM (cell means, random item intercept)","C(quality, Treatment('full'))[T.partial]",-2.294666666666666,0.027188335914231768,0.0
+sim-null,"LMM (cell means, random item intercept)","C(ref, Treatment('R_EN'))[T.R_KK]:C(term_form, Treatment('official'))[T.teacher]",0.0119999999999999,0.0665975499452542,0.857005913976804
+sim-null,"LMM (cell means, random item intercept)","C(ref, Treatment('R_EN'))[T.R_KK_GLOSS]:C(term_form, Treatment('official'))[T.teacher]",-0.004000000000000017,0.0665975499452542,0.9521060401768483
